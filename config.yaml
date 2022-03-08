@@ -1,17 +1,18 @@
-baseURL: https://example.com
-languageCode: en-us
-defaultContentLanguage: en
-title: Cupper
+baseURL: https://stijnbiemans.netlify.app
+languageCode: nl-nl
+defaultContentLanguage: nl
+title: StijnBiemans
 theme: cupper-hugo-theme
-googleAnalytics: UA-123456789-1
-disqusShortname: yourdiscussshortname
+# googleAnalytics: 
+# disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
   tag: tags
-
+  category: categories
+  
 permalinks:
-  post: /:title/
+  post: /:slug/
 
 imaging:
   quality: 99
