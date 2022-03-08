@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+<head dir="ltr">
+<meta charset="UTF-8" /><!-- 
+                                               /
+                                              /
+                                             /
+                                            /
+                                           /
+                                          /
+                                         /
+                                        /
+                                       /
+                                      /
+                                     /
+                                    /
+                                    
+                                  n
+                                 a
+                                m
+                               d
+                              n
+                             o
+                            l
+                           B
+                          
+                         s
+                        i
+                       r
+                      r
+                     a
+                    H
+                   
+                  o
+                 i
+                d
+               u
+              t
+             S
+             
+           /
+          /
+         /
+        /
+       /
+      /
+     /
+    /
+   /
+  /
+ /
+/
+
+Publisher: © 2019-now De Vrolijkheid, https://vrolijkheid.nl/
+Author: © 2019-now De Vrolijkheid, https://vrolijkheid.nl/
+Designer: © 2019-now Studio Harris Blondman, digital, graphic, and design, http://www.harrisblondman.nl/
+Generator: © 2008-now Studio Harris Blondman, digital, graphic, and design, http://www.harrisblondman.nl/ -->
+
+<meta name="description" content="Home – De Vrolijkheid, Art Projects in Dutch Refugee Centres" />
+<!-- <meta name="publisher" content="De Vrolijkheid, https://vrolijkheid.nl/" /> -->
+<meta name="author" content="De Vrolijkheid, https://vrolijkheid.nl/" />
+<meta name="designer" content="Studio Harris Blondman, digital, graphic, and design, http://www.harrisblondman.nl/" />
+<meta name="generator" content="Studio Harris Blondman, digital, graphic, and design, http://www.harrisblondman.nl/" />
+<meta name="keywords" content="vrolijkheid, studio, harris, blondman, digital, graphic, design, joris, landman, harry, bloch" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Home – De Vrolijkheid, Art Projects in Dutch Refugee Centres</title>
+
+<link rel="home" href="https://vrolijkheid.nl/" title="De Vrolijkheid, Art Projects in Dutch Refugee Centres" hreflang="nl-NL" />
+<link rel="index" href="https://vrolijkheid.nl/" title="De Vrolijkheid, Art Projects in Dutch Refugee Centres" hreflang="nl-NL" />
+<link rel="canonical" href="https://vrolijkheid.nl/" title="Home – De Vrolijkheid, Art Projects in Dutch Refugee Centres" hreflang="nl-NL" />
+<link rel="author" href="https://vrolijkheid.nl/" title="De Vrolijkheid" />
+
+<!-- <link rel="dns-prefetch" href="https://vrolijkheid.nl/" /> -->
+
+<meta name="application-name" content="De Vrolijkheid" />
+<meta name="apple-mobile-web-app-title" content="De Vrolijkheid" />
+<meta name="mobile-web-app-capable" content="yes" />
+<!-- <meta name="apple-mobile-web-app-capable" content="yes" /> -->
+<!-- <meta name="apple-mobile-web-app-status-bar-style" content="black" /> -->
+<!-- <meta name="format-detection" content="telephone=no" /> -->
+
+<!-- www.realfavicongenerator.net -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+<link rel="manifest" href="/site.webmanifest" />
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#7300eb" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="theme-color" content="#ffffff" />
+
+<!-- Open Graph -->
+<meta property="og:url" content="https://vrolijkheid.nl/" />
+<meta property="og:type" content="article" />
+<meta name="og:title" content="Home – De Vrolijkheid, Art Projects in Dutch Refugee Centres" />
+<meta name="og:description" content="Home – De Vrolijkheid, Art Projects in Dutch Refugee Centres" />
+
+<link rel="stylesheet" href="https://vrolijkheid.nl/site/templates/hb-resources/css/reset.css?v=1.1" media="all" />
+<link rel="stylesheet" href="https://vrolijkheid.nl/site/templates/hb-resources/css/style.css?v=1.1" media="all" />
+<link rel="stylesheet" href="https://vrolijkheid.nl/site/templates/covers/cover-bubbles/cover.css?v=1.1" media="all" />
+
+<script>
+  var template = 'hb-home';
+</script>
+
+<script>
+  var user_agent_handheld_flag = false;
+</script>
+
+<script>
+  var redirect_url = '';
+</script>
+
+<script id="script-search">
+	var searchPostUrl = 'https://vrolijkheid.nl/search/';
+</script>
+
+<script src="https://vrolijkheid.nl/site/templates/hb-resources/javascript/jquery-3.4.1.min.js?v=1.1"></script>
+<!-- <script src="https://vrolijkheid.nl/site/templates/hb-resources/javascript/jquery.easing.1.3.js?v=1.1"></script> -->
+<script src="https://vrolijkheid.nl/site/templates/hb-resources/javascript/javascript.js?v=1.1"></script>
+<script src="https://vrolijkheid.nl/site/templates/covers/cover-bubbles/cover.js?v=1.1"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133841130-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'UA-133841130-7');
+</script>
+
+</head>
+<body class="html-body body-home body-list body-first-page-true dir-ltr flag-handheld-false flag-javascript-false flag-modernizr-csscalc-false flag-debug-false flag-transitions-false flag-imagesloaded-false flag-scrolldirection-false flag-state-false flag-redirect-false flag-autoscroll-false flag-focus-false flag-signature-false">
+
+  <div class="preview">
+    <p><img src="https://vrolijkheid.nl/site/templates/hb-resources/images/de-vrolijkheid.jpg" alt="De Vrolijkheid, Art Projects in Dutch Refugee Centres" /></p>
+  </div>
+
+  <div class="container-main hfeed" dir="ltr">
+
+    <div class="dot"><a href="https://vrolijkheid.nl/" title="De Vrolijkheid, Art Projects in Dutch Refugee Centres"><mark><span>De Vrolijkheid, Art Projects in Dutch Refugee Centres</span></mark></a></div>
+    <div class="searchinput">
+      <p class="p-input"><input type="text" value="Zoeken " name="search" class="search" id="search" maxlength="1024" dir="auto" /></p><!-- //NOTE: Languagessupport, add direction, rtl -->
+      <p class="p-stop"><span>✕</span></p>
+    </div>
+    <nav class="mainmenu">
+      <div class="menu">
+        <ul class="ul-search">
+          <li class="type-internal search-item search-item-1">
+            <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/" title="Menu – Home"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Home</span></a></p>
+          </li>
+          <li class="type-internal search-item search-item-1016">
+            <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/" title="Menu – Projecten"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Projecten</span></a></p>
+            <ul>
+              <li class="type-internal search-item search-item-4637">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/3d-comic/" title="Menu – Harmonica vol Verhalen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Harmonica vol Verhalen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4696">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/peuterlab/" title="Menu – Peuterlab"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Peuterlab</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4486">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/bring-your-own-beamer/" title="Menu – Bring Your Own Beamer &amp; Band"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Bring Your Own Beamer &amp; Band</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4342">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/soundlab-luttelgeest/" title="Menu – SoundLAB Luttelgeest"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">SoundLAB Luttelgeest</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4611">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/cyanotype-portretten/" title="Menu – Cyanotype portretten"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Cyanotype portretten</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4468">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/birds-of-paradise/" title="Menu – BIRDS OF PARADISE"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">BIRDS OF PARADISE</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4594">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/collages-in-kunstlab/" title="Menu – Collages in Kunstlab"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Collages in Kunstlab</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4499">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/glow-in-the-dark/" title="Menu – Glow in the dark"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Glow in the dark</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4556">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/surreele-filmreeks/" title="Menu – Surreële filmreeks"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Surreële filmreeks</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4411">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/two-shadows-videoclip/" title="Menu – Two Shadows videoclip"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Two Shadows videoclip</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4308">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/destination/" title="Menu – Expositie Destination Unknown"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Expositie Destination Unknown</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4163">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/tuintapijt/" title="Menu – Tuintapijt"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Tuintapijt</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4427">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/roots/" title="Menu – Roots"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Roots</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4345">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/danslab-heerhugowaard/" title="Menu – DansLAB x Studio eXp"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">DansLAB x Studio eXp</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4393">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/animatie/" title="Menu – Frame by frame Animatie"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Frame by frame Animatie</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4282">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/gif-animatie/" title="Menu – GIF Animatie"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">GIF Animatie</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3567">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/latelier-heterotopie/" title="Menu – L’atelier hétérotopie"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">L’atelier hétérotopie</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4212">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/expositie-bibliotheek-rijswijk/" title="Menu – Expositie Bibliotheek Rijswijk"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Expositie Bibliotheek Rijswijk</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4087">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/geanimeerde-verhalen/" title="Menu – Geanimeerde verhalen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Geanimeerde verhalen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4242">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/tentoonstelling-de-tussenruimte/" title="Menu – Tentoonstelling de Tussenruimte"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Tentoonstelling de Tussenruimte</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4071">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/suzan-freek/" title="Menu – Suzan &amp; Freek"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Suzan &amp; Freek</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4101">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/fashion-blossom/" title="Menu – Fashion Blossom"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Fashion Blossom</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3896">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/empowerment-gifs/" title="Menu – Empowering GIF’s"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Empowering GIF’s</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3965">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/verwoven-familieverhalen/" title="Menu – Verwoven familieverhalen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Verwoven familieverhalen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3909">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/strandwal-festival/" title="Menu – Strandwal Festival"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Strandwal Festival</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3997">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/summer-playground-sessions-2021/" title="Menu – Summer Playground Sessions"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Summer Playground Sessions</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-4021">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/moving-aid-video/" title="Menu – Moving Aid"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Moving Aid</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3947">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/soundlab/" title="Menu – SoundLAB"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">SoundLAB</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3847">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/cultura-nova-x-de-vrolijkheid/" title="Menu – Cultura Nova x De Vrolijkheid"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Cultura Nova x De Vrolijkheid</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3880">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/blauwdrukken-maken/" title="Menu – Blauwdrukken maken"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Blauwdrukken maken</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3773">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/droompersonages/" title="Menu – Droompersonages"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Droompersonages</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3826">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/familieproject-stempelen/" title="Menu – Familieproject stempelen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Familieproject stempelen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3790">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/gelukszoekertjes/" title="Menu – GELUKSZOEKERtjes"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">GELUKSZOEKERtjes</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3756">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/meet-aye-myo/" title="Menu – Meet Aye Myo"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Meet Aye Myo</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3699">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/ons-huis/" title="Menu – Ons huis"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Ons huis</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3729">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/festivaldag/" title="Menu – Festivaldag"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Festivaldag</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3620">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/het-vrolijke-stripboek/" title="Menu – Het Vrolijke Stripboek"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Het Vrolijke Stripboek</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3681">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/meet-djevat/" title="Menu – Meet Djevat"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Meet Djevat</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3652">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/true-art-of-giving/" title="Menu – True Art of Giving"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">True Art of Giving</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3603">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/de-vrolijkheid-x-mooizooi/" title="Menu – De Vrolijkheid x Mooizooi"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">De Vrolijkheid x Mooizooi</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3576">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/tekeningen-borduren/" title="Menu – Tekeningen borduren"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Tekeningen borduren</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3545">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/corpo-maquina/" title="Menu – Corpo Máquina"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Corpo Máquina</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2971">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/melody-en-het-eiland-van-muziek-2/" title="Menu – Melody en het eiland van muziek"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Melody en het eiland van muziek</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3528">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/light-graffiti/" title="Menu – Light graffiti"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Light graffiti</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3500">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/marres-extended-x-de-vrolijkheid-vrolijke-post/" title="Menu – Marres Extended x de Vrolijkheid - Vrolijke post"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Marres Extended x de Vrolijkheid - Vrolijke post</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3483">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/as-of-n-tentoonstelling-in-de-nieuwe-bibliotheek-almere/" title="Menu – As of Nū tentoonstelling"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">As of Nū tentoonstelling</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3360">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/vrolijke-herinneringen/" title="Menu – Vrolijke herinneringen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Vrolijke herinneringen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3337">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/ebtekar/" title="Menu – Meet Ebtekar"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Meet Ebtekar</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3102">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/expositie-openbare-bibliotheek-amsterdam/" title="Menu – Raam-expositie Amsterdam"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Raam-expositie Amsterdam</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3135">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/signatures/" title="Menu – Signatures"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Signatures</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3056">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/servaases-flute-lessons/" title="Menu – Fluitlessen met Servaas"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Fluitlessen met Servaas</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3041">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/onderwater-beestjes/" title="Menu – Onderwater Beestjes"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Onderwater Beestjes</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3019">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/het-andere-koek-boek/" title="Menu – Het Andere Koek Boek"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Het Andere Koek Boek</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-3007">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/dansen-met-je-schaduw/" title="Menu – Dansen met je schaduw"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Dansen met je schaduw</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2988">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/projectorhead/" title="Menu – Projectorhead animaties"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Projectorhead animaties</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2974">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/ik-maken/" title="Menu – IK MAKEN"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">IK MAKEN</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2952">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/videolab-almere/" title="Menu – Videolab Almere"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Videolab Almere</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2883">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/zeepkisten-race/" title="Menu – Zeepkisten race"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Zeepkisten race</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2921">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/nest/" title="Menu – NEST"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">NEST</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2905">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/vrolijkheid-mixtape-2020/" title="Menu – Vrolijkheid Mixtape 2020"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Vrolijkheid Mixtape 2020</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2934">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/one-minute-film-project/" title="Menu – One Minute Film Project"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">One Minute Film Project</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2856">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/fashion-uit-heerlen/" title="Menu – Fashion uit Heerlen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Fashion uit Heerlen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2841">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/lockdown-sessions/" title="Menu – Lockdown Sessions"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Lockdown Sessions</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2724">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/wij-zijn-de-vrolijkheid/" title="Menu – Wij zijn de Vrolijkheid"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Wij zijn de Vrolijkheid</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2704">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/het-kleine-zwarte-visje/" title="Menu – Het Kleine Zwarte Visje"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Het Kleine Zwarte Visje</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2620">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/sneakerworkshop/" title="Menu – Sneakers"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Sneakers</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2672">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/as-of-nu/" title="Menu – As of Nū"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">As of Nū</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2648">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/about-love/" title="Menu – Let us Talk About Love"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Let us Talk About Love</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2636">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/baby-gal/" title="Menu – Baby Gal"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Baby Gal</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2600">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/lockdown-fotoshoot/" title="Menu – Lockdown legendes"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Lockdown legendes</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2035">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/motionlab/" title="Menu – MotionLab"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">MotionLab</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2573">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/far-away-fashion-show/" title="Menu – Far Away Fashion Show"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Far Away Fashion Show</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2558">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/familie-albums-emmen/" title="Menu – Familie albums uit Emmen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Familie albums uit Emmen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2511">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/kunstkabinetten/" title="Menu – Kunstkabinetten"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Kunstkabinetten</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2335">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/muzikale-post/" title="Menu – Muzikale post"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Muzikale post</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2281">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/vrolijke-karaoke/" title="Menu – Quarantaine Karaoke"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Quarantaine Karaoke</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2353">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/radio-de-vrolijkheid/" title="Menu – Radio de Vrolijkheid"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Radio de Vrolijkheid</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1909">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/myths/" title="Menu – Myths"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Myths</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2418">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/bana-uit-baexem/" title="Menu – Bana uit Baexem"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Bana uit Baexem</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2047">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/dansworkshops/" title="Menu – Dansen met Daphne"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Dansen met Daphne</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1987">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/kinderliedjes-van-over-de-hele-wereld/" title="Menu – Kinderliedjes van over de hele wereld"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Kinderliedjes van over de hele wereld</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1758">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/kronkelende-kunst/" title="Menu – Kronkelende kunst"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Kronkelende kunst</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1724">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/bouwmeesters/" title="Menu – Bouwmeesters"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Bouwmeesters</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1748">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/wavin-flag/" title="Menu – Wavin’ Flag"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Wavin’ Flag</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2020">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/yero-gaynaako/" title="Menu – Yero Gaynaako"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Yero Gaynaako</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1710">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/zara-en-de-magische-kicksen/" title="Menu – Zara en de Magische Kicksen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Zara en de Magische Kicksen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1884">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/azc-style/" title="Menu – Azc Style"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Azc Style</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2009">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/artist-in-residence-cello-octet/" title="Menu – Artist in Residence: Cello Octet"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Artist in Residence: Cello Octet</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1736">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/soundbike-fietsen/" title="Menu – Soundbike fietsen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Soundbike fietsen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1777">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/no-doubt-addi/" title="Menu – ‘No Doubt’ – Addi"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">‘No Doubt’ – Addi</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1818">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/juicy-jay/" title="Menu – Juicy Jay"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Juicy Jay</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1837">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/artist-in-residence-mariska-de-groot/" title="Menu – Artist in Residence: Mariska de Groot"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Artist in Residence: Mariska de Groot</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1846">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/tijd-voor-tapijten/" title="Menu – Tijd voor Tapijten"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Tijd voor Tapijten</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1864">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/virtual-reality-project/" title="Menu – Virtual Reality"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Virtual Reality</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1874">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/one-minutes-jr/" title="Menu – One Minutes Jr"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">One Minutes Jr</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1897">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/vergeten-helden/" title="Menu – Vergeten Helden"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Vergeten Helden</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1808">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/friends-for-life/" title="Menu – Friends for Life"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Friends for Life</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1856">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/meeting-point/" title="Menu – Meeting Point"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Meeting Point</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1767">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/wereldwoorden/" title="Menu – Wereldwoorden"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Wereldwoorden</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1828">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/vertel-tot-tien/" title="Menu – Vertel tot tien"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Vertel tot tien</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1789">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/onderweg-festival/" title="Menu – Onderweg festival"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Onderweg festival</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2868">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/projecten/jamming-away/" title="Menu – Jammin’"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Jammin’</span></a></p>
+              </li>
+            </ul>
+          </li>
+          <li class="type-textonly search-item search-item-noid">
+            <p data-top-to-bottom="0" data-bottom-to-top="0"><a class="text-only"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Pagina’s</span></a></p>
+            <ul>
+              <li class="type-internal search-item search-item-1275">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/de-vrolijkheid/" title="Menu – De Vrolijkheid"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">De Vrolijkheid</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1350">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/de-vrolijkheid-1/" title="Menu – Missie en Visie"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Missie en Visie</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1359">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/werkwijze/" title="Menu – Werkwijze"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Werkwijze</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1368">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/organisatie/" title="Menu – Organisatie"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Organisatie</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1380">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/wat-we-doen/" title="Menu – Wat we doen"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Wat we doen</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1406">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/vrolijke-academie/" title="Menu – Vrolijke Academie"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Vrolijke Academie</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2178">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/vrolijke-academie-trainingen/" title="Menu – Trainingsoverzicht Vrolijke Academie"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Trainingsoverzicht Vrolijke Academie</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1467">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/proclaimer-en-klachtenprocedure/" title="Menu – Proclaimer"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Proclaimer</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1668">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/vacature-vrijwilligers-gezocht/" title="Menu – Vacature: vrijwilligers gezocht"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Vacature: vrijwilligers gezocht</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1675">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/vacatures/" title="Menu – Vacatures"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Vacatures</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2246">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/schenking-jan-roede-stichting/" title="Menu – Schenking Jan Roëde Stichting"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Schenking Jan Roëde Stichting</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2260">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/contact/" title="Menu – Contact"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Contact</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2269">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/organisatie-de-vrolijkheid/" title="Menu – Organisatie de Vrolijkheid"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Organisatie de Vrolijkheid</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2301">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/impact/" title="Menu – Impact"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Impact</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2381">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/new-york-times/" title="Menu – New York Times"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">New York Times</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-2390">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/modules/" title="Menu – Modules"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Modules</span></a></p>
+              </li>
+            </ul>
+          </li>
+          <li class="type-internal search-item search-item-1028">
+            <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/join/" title="Menu – Join"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Join</span></a></p>
+            <ul>
+              <li class="type-internal search-item search-item-1223">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/join/azc-bewoner/" title="Menu – Azc-bewoner"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Azc-bewoner</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1508">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/join/kunstenaar/" title="Menu – Kunstenaar"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Kunstenaar</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1540">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/join/vrijwilliger/" title="Menu – Vrijwilliger"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Vrijwilliger</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1572">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/join/donateur/" title="Menu – Doneer"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Doneer</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1604">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/join/culturele-organisatie/" title="Menu – Culturele organisatie"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Culturele organisatie</span></a></p>
+              </li>
+              <li class="type-internal search-item search-item-1636">
+                <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/join/bedrijf-of-ondernemer/" title="Menu – Bedrijf of ondernemer"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Bedrijf of ondernemer</span></a></p>
+              </li>
+            </ul>
+          </li>
+          <li class="type-internal search-item search-item-1177">
+            <p data-top-to-bottom="0" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/locaties/" title="Menu – Locaties"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Locaties</span></a></p>
+          </li>
+          <li class="type-noresults type-textonly search-item search-item-noid">
+            <p data-top-to-bottom="0" data-bottom-to-top="0"><a class="text-only"><mark data-top-to-bottom="0" data-bottom-to-top="0"></mark><span data-top-to-bottom="0" data-bottom-to-top="0">Geen resultaten</span></a></p>
+          </li>
+        </ul>
+        <ul class="ul-main">
+          <li class="type-internal main-item main-item-1">
+            <p data-top-to-bottom="0" data-bottom-to-top="19"><a href="https://vrolijkheid.nl/" title="Menu – Home"><mark data-top-to-bottom="0" data-bottom-to-top="19"></mark><span data-top-to-bottom="0" data-bottom-to-top="19">Home</span></a></p>
+          </li>
+          <li class="type-textonly main-item main-item-noid">
+            <p data-top-to-bottom="1" data-bottom-to-top="18"><a class="text-only"><mark data-top-to-bottom="1" data-bottom-to-top="18"></mark><span data-top-to-bottom="1" data-bottom-to-top="18">Wie</span></a></p>
+            <ul>
+              <li class="type-internal main-item main-item-1275">
+                <p data-top-to-bottom="2" data-bottom-to-top="17"><a href="https://vrolijkheid.nl/pages/de-vrolijkheid/" title="Menu – De Vrolijkheid"><mark data-top-to-bottom="2" data-bottom-to-top="17"></mark><span data-top-to-bottom="2" data-bottom-to-top="17">De Vrolijkheid</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1380">
+                <p data-top-to-bottom="3" data-bottom-to-top="16"><a href="https://vrolijkheid.nl/pages/wat-we-doen/" title="Menu – Wat we doen"><mark data-top-to-bottom="3" data-bottom-to-top="16"></mark><span data-top-to-bottom="3" data-bottom-to-top="16">Wat we doen</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1350">
+                <p data-top-to-bottom="4" data-bottom-to-top="15"><a href="https://vrolijkheid.nl/pages/de-vrolijkheid-1/" title="Menu – Missie en Visie"><mark data-top-to-bottom="4" data-bottom-to-top="15"></mark><span data-top-to-bottom="4" data-bottom-to-top="15">Missie en Visie</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1359">
+                <p data-top-to-bottom="5" data-bottom-to-top="14"><a href="https://vrolijkheid.nl/pages/werkwijze/" title="Menu – Werkwijze"><mark data-top-to-bottom="5" data-bottom-to-top="14"></mark><span data-top-to-bottom="5" data-bottom-to-top="14">Werkwijze</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1406">
+                <p data-top-to-bottom="6" data-bottom-to-top="13"><a href="https://vrolijkheid.nl/pages/vrolijke-academie/" title="Menu – Vrolijke Academie"><mark data-top-to-bottom="6" data-bottom-to-top="13"></mark><span data-top-to-bottom="6" data-bottom-to-top="13">Vrolijke Academie</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1368">
+                <p data-top-to-bottom="7" data-bottom-to-top="12"><a href="https://vrolijkheid.nl/pages/organisatie/" title="Menu – Organisatie"><mark data-top-to-bottom="7" data-bottom-to-top="12"></mark><span data-top-to-bottom="7" data-bottom-to-top="12">Organisatie</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-2260">
+                <p data-top-to-bottom="8" data-bottom-to-top="11"><a href="https://vrolijkheid.nl/pages/contact/" title="Menu – Contact"><mark data-top-to-bottom="8" data-bottom-to-top="11"></mark><span data-top-to-bottom="8" data-bottom-to-top="11">Contact</span></a></p>
+              </li>
+            </ul>
+          </li>
+          <li class="type-internal main-item main-item-1016">
+            <p data-top-to-bottom="9" data-bottom-to-top="10"><a href="https://vrolijkheid.nl/projecten/" title="Menu – Projecten"><mark data-top-to-bottom="9" data-bottom-to-top="10"></mark><span data-top-to-bottom="9" data-bottom-to-top="10">Projecten</span></a></p>
+          </li>
+          <li class="type-internal main-item main-item-1177">
+            <p data-top-to-bottom="10" data-bottom-to-top="9"><a href="https://vrolijkheid.nl/locaties/" title="Menu – Locaties"><mark data-top-to-bottom="10" data-bottom-to-top="9"></mark><span data-top-to-bottom="10" data-bottom-to-top="9">Locaties</span></a></p>
+          </li>
+          <li class="type-newsletter-form main-item main-item-noid">
+            <!-- Begin Mailchimp Signup Form -->
+            <div id="mc_embed_signup" data-top-to-bottom="11" data-bottom-to-top="8">
+              <mark data-top-to-bottom="11" data-bottom-to-top="8"></mark>
+              <form action="https://vrolijkheid.us14.list-manage.com/subscribe/post?u=67bcbc12292770adee60d208a&amp;id=4f1f472713" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate data-top-to-bottom="11" data-bottom-to-top="8">
+                <div id="mc_embed_signup_scroll">
+                  <div class="mc-field-group">
+                    <label for="mce-EMAIL">E-mailadres</label>
+                    <input type="email" value="E-mailadres " name="EMAIL" class="required email" id="mce-EMAIL" dir="auto" /><!-- //NOTE: Languagessupport, add direction, rtl -->
+                  </div>
+                  <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                  </div>
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -50000px;" aria-hidden="true"><input type="text" name="b_67bcbc12292770adee60d208a_4f1f472713" tabindex="-1" value=""></div>
+                  <div class="clear"><input type="submit" value="↩︎" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                </div>
+              </form>
+            </div>
+            <!--End mc_embed_signup-->
+          </li>
+          <li class="type-newsletter main-item main-item-noid">
+            <p data-top-to-bottom="11" data-bottom-to-top="8"><a class="text-only"><mark data-top-to-bottom="11" data-bottom-to-top="8"></mark><span data-top-to-bottom="11" data-bottom-to-top="8">Nieuwsbrief</span></a></p>
+          </li>
+          <li class="type-internal main-item main-item-1028">
+            <p data-top-to-bottom="12" data-bottom-to-top="7"><a href="https://vrolijkheid.nl/join/" title="Menu – Join"><mark data-top-to-bottom="12" data-bottom-to-top="7"></mark><span data-top-to-bottom="12" data-bottom-to-top="7">Join</span></a></p>
+            <ul>
+              <li class="type-internal main-item main-item-1223">
+                <p data-top-to-bottom="13" data-bottom-to-top="6"><a href="https://vrolijkheid.nl/join/azc-bewoner/" title="Menu – Azc-bewoner"><mark data-top-to-bottom="13" data-bottom-to-top="6"></mark><span data-top-to-bottom="13" data-bottom-to-top="6">Azc-bewoner</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1508">
+                <p data-top-to-bottom="14" data-bottom-to-top="5"><a href="https://vrolijkheid.nl/join/kunstenaar/" title="Menu – Kunstenaar"><mark data-top-to-bottom="14" data-bottom-to-top="5"></mark><span data-top-to-bottom="14" data-bottom-to-top="5">Kunstenaar</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1540">
+                <p data-top-to-bottom="15" data-bottom-to-top="4"><a href="https://vrolijkheid.nl/join/vrijwilliger/" title="Menu – Vrijwilliger"><mark data-top-to-bottom="15" data-bottom-to-top="4"></mark><span data-top-to-bottom="15" data-bottom-to-top="4">Vrijwilliger</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1572">
+                <p data-top-to-bottom="16" data-bottom-to-top="3"><a href="https://vrolijkheid.nl/join/donateur/" title="Menu – Doneer"><mark data-top-to-bottom="16" data-bottom-to-top="3"></mark><span data-top-to-bottom="16" data-bottom-to-top="3">Doneer</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1604">
+                <p data-top-to-bottom="17" data-bottom-to-top="2"><a href="https://vrolijkheid.nl/join/culturele-organisatie/" title="Menu – Culturele organisatie"><mark data-top-to-bottom="17" data-bottom-to-top="2"></mark><span data-top-to-bottom="17" data-bottom-to-top="2">Culturele organisatie</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1636">
+                <p data-top-to-bottom="18" data-bottom-to-top="1"><a href="https://vrolijkheid.nl/join/bedrijf-of-ondernemer/" title="Menu – Bedrijf of ondernemer"><mark data-top-to-bottom="18" data-bottom-to-top="1"></mark><span data-top-to-bottom="18" data-bottom-to-top="1">Bedrijf of ondernemer</span></a></p>
+              </li>
+              <li class="type-internal main-item main-item-1675">
+                <p data-top-to-bottom="19" data-bottom-to-top="0"><a href="https://vrolijkheid.nl/pages/vacatures/" title="Menu – Vacatures"><mark data-top-to-bottom="19" data-bottom-to-top="0"></mark><span data-top-to-bottom="19" data-bottom-to-top="0">Vacatures</span></a></p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <nav class="languagessupportmenu">
+      <div class="menu">
+        <ul class="ul-languagessupport">
+          <li class="current-languagessupport"><a href="https://vrolijkheid.nl/" class="current-languagessupport" title="Taal – Nederlands"><span>Nederlands</span> <abbr>NL</abbr></a></li>
+          <li><a href="https://vrolijkheid.nl/ar/" title="Taal – العربية"><span>العربية</span> <abbr>AR</abbr></a></li>
+          <li><a href="https://vrolijkheid.nl/en/" title="Taal – English"><span>English</span> <abbr>EN</abbr></a></li>
+          <li><a href="https://vrolijkheid.nl/fa/" title="Taal – فارسی"><span>فارسی</span> <abbr>FA</abbr></a></li>
+          <li><a href="https://vrolijkheid.nl/fr/" title="Taal – Français"><span>Français</span> <abbr>FR</abbr></a></li>
+          <li><a href="https://vrolijkheid.nl/ru/" title="Taal – русский"><span>русский</span> <abbr>RU</abbr></a></li>
+          <li><a href="https://vrolijkheid.nl/ti/" title="Taal – ትግርኛ"><span>ትግርኛ</span> <abbr>TI</abbr></a></li>
+          <li><a href="https://vrolijkheid.nl/tr/" title="Taal – Türkçe"><span>Türkçe</span> <abbr>TR</abbr></a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <header class="header">
+      <div class="branding" role="banner">
+        <h1 class="site-title"><a href="https://vrolijkheid.nl/" title="Menu – Home" rel="home">De Vrolijkheid</a></h1>
+        <div class="site-description"><a href="https://vrolijkheid.nl/" title="Menu – Home" rel="home">Art Projects in Dutch Refugee Centres</a></div>
+        <hr />
+      </div>
+      <div class="logo"><!-- //NOTE: CSS transitions of fill don't work in Safari for SVGs inside of anchors, so a span is used and a link is added using js --><span onclick="javascript: document.location.href = 'https://vrolijkheid.nl/';"><svg class="de-vrolijkheid-logo" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 485.6465 141.7323">
+  <title>De Vrolijkheid</title>
+  <g>
+    <path d="M481.2645,36.7693A336.0892,336.0892,0,0,1,374.079,109.0366a335.09,335.09,0,0,1-131.2553,26.4981,335.0917,335.0917,0,0,1-131.2554-26.4981A336.0785,336.0785,0,0,1,4.382,36.7689L0,41.1509a342.2432,342.2432,0,0,0,109.154,73.5934,341.2541,341.2541,0,0,0,133.67,26.988,341.25,341.25,0,0,0,133.6688-26.988,342.241,342.241,0,0,0,109.154-73.593Z" />
+    <path d="M454.4111,50.45l5.7946-4.8315,5.1749-4.3147a22.5152,22.5152,0,0,0,6.857-9.0281,17.0221,17.0221,0,0,0,.7331-10.1106,24.6343,24.6343,0,0,0-5.4071-10.293,24.4657,24.4657,0,0,0-9.1271-7.1376,17.09,17.09,0,0,0-10.0022-1.1186A21.81,21.81,0,0,0,438.51,8.5938l-8.62,7.1876,0,0-2.5873,2.1577Zm-12.0517-36.562a14.8148,14.8148,0,0,1,6.62-3.4064,10.2945,10.2945,0,0,1,6.5.9045,19.4218,19.4218,0,0,1,6.3379,5.278,19.56,19.56,0,0,1,4.0659,7.1993,10.3093,10.3093,0,0,1-.3,6.6284,15.2616,15.2616,0,0,1-4.6547,6.02l-4.9054,4.09L437.28,18.124Z" />
+    <rect x="426.2065" y="21.9091" width="7.5442" height="42.3303" transform="translate(60.7496 267.5891) rotate(-37.023)" />
+    <polygon points="430.301 69.229 426.93 63.854 409.927 74.518 403.722 64.625 419.376 54.806 416.004 49.431 400.351 59.249 394.178 49.408 411.023 38.843 407.651 33.467 384.415 48.041 406.908 83.902 430.301 69.229" />
+    <polygon points="371.294 102.212 363.268 86.074 380.938 77.288 388.963 93.426 395.718 90.067 376.871 52.164 370.116 55.524 378.113 71.606 360.443 80.392 352.098 63.583 345.343 66.942 364.538 105.572 371.294 102.212" />
+    <polygon points="327.729 116.211 324.241 104.052 327.252 97.382 344.517 111.394 353.219 108.897 330.85 91.038 341.426 68.243 332.545 70.791 321.938 94.154 321.442 94.297 316.055 75.522 308.804 77.603 320.478 118.292 327.729 116.211" />
+    <path d="M287.3407,124.1365a16.1929,16.1929,0,0,0,6.7946.0931,15.3057,15.3057,0,0,0,6.698-2.8316,11.4251,11.4251,0,0,0,3.8564-5.3037,13.9617,13.9617,0,0,0,.422-7.2335L299.7134,79.57l-7.3586,1.3559,5.3983,29.291a7.82,7.82,0,0,1-.5629,5.3268,5.3377,5.3377,0,0,1-3.9181,2.5189,5.9288,5.9288,0,0,1-4.3837-.6948,5.3784,5.3784,0,0,1-2.3527-3.6967l-7.3781,1.36a11.6125,11.6125,0,0,0,2.8634,6.0714A10.6274,10.6274,0,0,0,287.3407,124.1365Z" />
+    <rect x="263.2867" y="84.1786" width="7.5443" height="42.3303" transform="translate(-7.231 20.5924) rotate(-4.3568)" />
+    <polygon points="255.871 127.414 255.871 121.068 237.164 121.068 237.164 85.083 229.62 85.083 229.62 127.414 255.871 127.414" />
+    <path d="M189.995,121.6583a20.3656,20.3656,0,0,0,19.7026,2.5975,18.1579,18.1579,0,0,0,7.8456-6.4847,24.9987,24.9987,0,0,0,4.0458-11.278,25.0094,25.0094,0,0,0-.9961-11.94,18.1659,18.1659,0,0,0-5.9056-8.2913,20.3993,20.3993,0,0,0-19.7043-2.5868,18.1708,18.1708,0,0,0-7.8349,6.4863,25.0093,25.0093,0,0,0-4.0459,11.278,24.97,24.97,0,0,0,.9994,11.92A18.2478,18.2478,0,0,0,189.995,121.6583Zm.6085-19.2348a19.7343,19.7343,0,0,1,2.5729-7.9273,11.44,11.44,0,0,1,4.8081-4.4655,11.84,11.84,0,0,1,12.1727,1.5981,11.45,11.45,0,0,1,3.4922,5.5556,19.75,19.75,0,0,1,.4392,8.3232,19.7464,19.7464,0,0,1-2.5737,7.9281,11.4449,11.4449,0,0,1-4.8081,4.4654,11.8421,11.8421,0,0,1-12.1728-1.5988,11.435,11.435,0,0,1-3.4913-5.5556A19.7223,19.7223,0,0,1,190.6035,102.4235Z" />
+    <path d="M148.447,113.5169l4.224-15.366,7.8122,2.1472,3.8676,17.59,8.1318,2.2352-4.3052-19.0394a11.9143,11.9143,0,0,0,6.681-2.9753,13.2007,13.2007,0,0,0,3.7923-6.4282,13.7414,13.7414,0,0,0,.1906-7.2036,11.66,11.66,0,0,0-3.5863-5.787,17.35,17.35,0,0,0-7.1577-3.6721L152.3931,70.7l-11.2208,40.8168Zm17.4618-32.5632A8.7584,8.7584,0,0,1,169.57,82.84a5.8127,5.8127,0,0,1,1.7821,3.03,7.9018,7.9018,0,0,1-.1734,3.9069,7.6987,7.6987,0,0,1-1.8189,3.38,5.7824,5.7824,0,0,1-3.1347,1.6569,9.7074,9.7074,0,0,1-4.4033-.3206l-7.5731-2.0821,3.7472-13.6319Z" />
+    <polygon points="148.512 69.685 140.907 66.441 117.576 92.847 117.177 92.677 120.108 57.569 112.504 54.325 109.64 99.124 118.157 102.757 148.512 69.685" />
+    <path d="M86.4479,66.9924a6.5864,6.5864,0,1,0,7.769-5.1384A6.5863,6.5863,0,0,0,86.4479,66.9924Z" />
+    <polygon points="65.933 75.957 69.574 70.759 53.137 59.243 59.839 49.679 74.972 60.283 78.613 55.085 63.48 44.482 70.146 34.969 86.43 46.379 90.071 41.182 67.608 25.444 43.318 60.11 65.933 75.957" />
+    <path d="M20.5754,40.789a22.5118,22.5118,0,0,0,9.8412,5.6263A17.0089,17.0089,0,0,0,40.5372,45.83a24.6239,24.6239,0,0,0,9.504-6.6975,24.45,24.45,0,0,0,5.8919-9.9764,17.0952,17.0952,0,0,0-.1889-10.063A21.8165,21.8165,0,0,0,49.52,9.8988L41.2739,2.2849l0,0L38.799,0,10.0826,31.1l5.5423,5.1179ZM39.9107,9.9163l4.86,4.487a14.8061,14.8061,0,0,1,4.2364,6.1208,10.292,10.292,0,0,1-.0525,6.5622,19.4282,19.4282,0,0,1-4.41,6.97,19.5588,19.5588,0,0,1-6.6114,4.9655,10.305,10.305,0,0,1-6.6108.5635,15.2612,15.2612,0,0,1-6.5741-3.8338l-4.6921-4.3327Z" />
+  </g>
+</svg></span></div>
+    </header>
+
+    <div class="bodier">
+      <nav class="supermenu">
+        <header class="supermenu-header">
+          <h2><a href="https://vrolijkheid.nl/" title="De Vrolijkheid – Home">Home</a></h2>
+        </header>
+      </nav>
+      <div class="cover">
+        <div class="bubble">
+          <div class="cover-circle cover-circle1" style="background-image: url(https://vrolijkheid.nl/site/assets/files/4617/foto002d.1600x0.jpeg)"></div>
+          <div class="cover-circle cover-circle2" style="background-image: url(https://vrolijkheid.nl/site/assets/files/4617/foto002d.1600x0.jpeg)"></div>
+          <div class="cover-circle cover-circle3" style="background-image: url(https://vrolijkheid.nl/site/assets/files/4617/foto002d.1600x0.jpeg)"></div>
+          <div class="cover-circle cover-circle4" style="background-image: url(https://vrolijkheid.nl/site/assets/files/4617/foto002d.1600x0.jpeg)"></div>
+          <div class="cover-circle cover-circle5" style="background-image: url(https://vrolijkheid.nl/site/assets/files/4617/foto002d.1600x0.jpeg)"></div>
+          <div class="cover-circle cover-circle6" style="background-image: url(https://vrolijkheid.nl/site/assets/files/4617/foto002d.1600x0.jpeg)"></div>
+        </div>
+      </div>
+
+      <div class="content" role="main">
+
+        <article class="entry hentry">
+          <header class="entry-header">
+            <h2><a href="https://vrolijkheid.nl/projecten/cyanotype-portretten/" title="De Vrolijkheid – Cyanotype portretten">Cyanotype portretten</a></h2>
+            <p class="datetime"><time datetime="2021-12-21">21 December 2021</time></p>
+          </header>
+          <div class="entry-section">
+            <div class="entry-section-column entry-section-column-0">
+              <div class="container-sticky">
+                <div class="entry-bodier">
+                  <h3 class="regular">Met schaduw en licht als eerste ingrediënten mondde een 10-weekse workshop uit in prachtige cyanotypes. </h3>
+                </div>
+                <div class="entry-bodier">
+                  <p>Jonge bewoners bewogen in tien weken een gelaagde beeldenserie in co-creatie met <a href="https://www.danevonk.nl">Dané Vonk</a> in azc Almere. Allereerst werden verschillende schaduweffecten opgezocht met tekeningen op doorzichtige sheets. Vervolgens werden bladeren, takjes en andere dingen uit de natuur verzameld, om fantasiebeelden met schaduwen te creëren. </p>
+                </div>
+                <div class="entry-images entry-images-rectangular">
+                  <figure class="entry-image entry-image-rectangular">
+                    <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4620/foto002b.200x0.jpeg 200w, https://vrolijkheid.nl/site/assets/files/4620/foto002b.400x0.jpeg 400w, https://vrolijkheid.nl/site/assets/files/4620/foto002b.800x0.jpeg 800w, https://vrolijkheid.nl/site/assets/files/4620/foto002b.1200x0.jpeg 1200w, https://vrolijkheid.nl/site/assets/files/4620/foto002b.1600x0.jpeg 1600w, https://vrolijkheid.nl/site/assets/files/4620/foto002b.2000x0.jpeg 2000w, https://vrolijkheid.nl/site/assets/files/4620/foto002b.2400x0.jpeg 2400w" src="https://vrolijkheid.nl/site/assets/files/4620/foto002b.800x0.jpeg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="768" data-h="1024" /></p>
+                  </figure>
+                </div>
+                <div class="entry-images entry-images-rectangular">
+                  <figure class="entry-image entry-image-rectangular">
+                    <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4627/foto006b.200x0.jpeg 200w, https://vrolijkheid.nl/site/assets/files/4627/foto006b.400x0.jpeg 400w, https://vrolijkheid.nl/site/assets/files/4627/foto006b.800x0.jpeg 800w, https://vrolijkheid.nl/site/assets/files/4627/foto006b.1200x0.jpeg 1200w, https://vrolijkheid.nl/site/assets/files/4627/foto006b.1600x0.jpeg 1600w, https://vrolijkheid.nl/site/assets/files/4627/foto006b.2000x0.jpeg 2000w, https://vrolijkheid.nl/site/assets/files/4627/foto006b.2400x0.jpeg 2400w" src="https://vrolijkheid.nl/site/assets/files/4627/foto006b.800x0.jpeg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="768" data-h="1024" /></p>
+                  </figure>
+                </div>
+              </div>
+            </div>
+            <div class="entry-section-column entry-section-column-1">
+              <div class="container-sticky">
+                <div class="entry-images entry-images-rectangular">
+                  <figure class="entry-image entry-image-rectangular">
+                    <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4619/0foto001b.200x0.jpeg 200w, https://vrolijkheid.nl/site/assets/files/4619/0foto001b.400x0.jpeg 400w, https://vrolijkheid.nl/site/assets/files/4619/0foto001b.800x0.jpeg 800w, https://vrolijkheid.nl/site/assets/files/4619/0foto001b.1200x0.jpeg 1200w, https://vrolijkheid.nl/site/assets/files/4619/0foto001b.1600x0.jpeg 1600w, https://vrolijkheid.nl/site/assets/files/4619/0foto001b.2000x0.jpeg 2000w, https://vrolijkheid.nl/site/assets/files/4619/0foto001b.2400x0.jpeg 2400w" src="https://vrolijkheid.nl/site/assets/files/4619/0foto001b.800x0.jpeg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="1024" data-h="768" /></p>
+                  </figure>
+                  <figure class="entry-image entry-image-rectangular">
+                    <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4619/foto001a.200x0.jpeg 200w, https://vrolijkheid.nl/site/assets/files/4619/foto001a.400x0.jpeg 400w, https://vrolijkheid.nl/site/assets/files/4619/foto001a.800x0.jpeg 800w, https://vrolijkheid.nl/site/assets/files/4619/foto001a.1200x0.jpeg 1200w, https://vrolijkheid.nl/site/assets/files/4619/foto001a.1600x0.jpeg 1600w, https://vrolijkheid.nl/site/assets/files/4619/foto001a.2000x0.jpeg 2000w, https://vrolijkheid.nl/site/assets/files/4619/foto001a.2400x0.jpeg 2400w" src="https://vrolijkheid.nl/site/assets/files/4619/foto001a.800x0.jpeg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="1024" data-h="768" /></p>
+                  </figure>
+                </div>
+                <div class="entry-bodier">
+                  <p>Tijdens een aantal workshopsessies werden door middel van een spel, neuzen, oren, ogen, monden en kinnen gefotografeerd. Stilstaand bij dit proces omschrijft workshopleider Dane Vonk: <br />
+<br />
+<em>”Dit waren hele leuke momenten met verschillende bewoners van het azc, die interactie vond ik erg leuk om te zien. Van al die verschillende mensen zijn we nieuwe portretten gaan maken door middel van de collagetechniek.”</em></p>
+                </div>
+                <div class="entry-images entry-images-rectangular">
+                  <figure class="entry-image entry-image-rectangular">
+                    <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4624/0vrolijkheidalmere00920211119_12291553_027.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4624/0vrolijkheidalmere00920211119_12291553_027.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4624/0vrolijkheidalmere00920211119_12291553_027.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4624/0vrolijkheidalmere00920211119_12291553_027.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4624/0vrolijkheidalmere00920211119_12291553_027.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4624/0vrolijkheidalmere00920211119_12291553_027.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4624/0vrolijkheidalmere00920211119_12291553_027.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4624/0vrolijkheidalmere00920211119_12291553_027.800x0.jpg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="4264" data-h="5762" /></p>
+                  </figure>
+                </div>
+                <div class="entry-images entry-images-round">
+                  <figure class="entry-image entry-image-round">
+                    <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4623/0vrolijkheidalmere00920211119_12230397_023.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4623/0vrolijkheidalmere00920211119_12230397_023.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4623/0vrolijkheidalmere00920211119_12230397_023.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4623/0vrolijkheidalmere00920211119_12230397_023.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4623/0vrolijkheidalmere00920211119_12230397_023.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4623/0vrolijkheidalmere00920211119_12230397_023.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4623/0vrolijkheidalmere00920211119_12230397_023.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4623/0vrolijkheidalmere00920211119_12230397_023.800x0.jpg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="3545" data-h="4772" /></p>
+                  </figure>
+                </div>
+                <div class="entry-bodier">
+                  <h3 class="regular">In de laatste workshops werden de collages omgezet naar cyanotypes, waarbij eigen foto’s met behulp van deze printtechniek omgezet werden naar blauwdrukken. </h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="entry-section">
+            <div class="entry-section-slideshow entry-section-backgroundcoloron">
+              <div class="entry-section-slideshow-images entry-images-backgroundcoloron entry-images-captionfalse">
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-1.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-1.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-1.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-1.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-1.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-1.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-1.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-1.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="2605" data-h="3674" /></p>
+              </figure>
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-8.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-8.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-8.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-8.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-8.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-8.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-8.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-8.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="3648" data-h="4864" /></p>
+              </figure>
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-3.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-3.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-3.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-3.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-3.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-3.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-3.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-3.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="3648" data-h="4864" /></p>
+              </figure>
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-9.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-9.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-9.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-9.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-9.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-9.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-9.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-9.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="3648" data-h="4864" /></p>
+              </figure>
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-5.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-5.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-5.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-5.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-5.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-5.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-5.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-5.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="3648" data-h="4864" /></p>
+              </figure>
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-13.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-13.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-13.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-13.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-13.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-13.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-13.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-13.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="3648" data-h="5168" /></p>
+              </figure>
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-4.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-4.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-4.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-4.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-4.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-4.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-4.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-4.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="3648" data-h="4864" /></p>
+              </figure>
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-10.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-10.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-10.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-10.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-10.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-10.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-10.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-10.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="3648" data-h="4864" /></p>
+              </figure>
+              <figure class="entry-image entry-image-backgroundcoloron">
+                <p class="p-figure"><img srcset="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-12.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-12.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-12.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-12.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-12.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-12.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-12.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/4630/collagesalmere-12.800x0.jpg" sizes="100vw" alt="Afbeelding" data-w="3648" data-h="4864" /></p>
+              </figure>
+              </div>
+            </div>
+          </div>
+
+          <hr />
+        </article>
+
+        <aside class="aside-headlines">
+          <header class="aside-headlines-header">
+            <h2>Uitgelicht</h2>
+          </header>
+          <div class="headlines">
+            <div class="headline">
+              <div class="container-sticky switch-headline-link" data-url="https://vrolijkheid.nl/join/donateur/">
+                <header class="headline-header">
+                  <h3><a href="https://vrolijkheid.nl/join/donateur/">Doneer: steun de Vrolijkheid</a></h3>
+                </header>
+                <div class="headline-images headline-images-rectangular">
+                  <div class="headline-images-background">
+                    <figure class="entry-image headline-image headline-image-rectangular">
+                      <p class="p-figure"><a href="https://vrolijkheid.nl/join/donateur/"><img srcset="https://vrolijkheid.nl/site/assets/files/2818/familieproject_borduur_oisterwijk_kpf_0560.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/2818/familieproject_borduur_oisterwijk_kpf_0560.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/2818/familieproject_borduur_oisterwijk_kpf_0560.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/2818/familieproject_borduur_oisterwijk_kpf_0560.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/2818/familieproject_borduur_oisterwijk_kpf_0560.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/2818/familieproject_borduur_oisterwijk_kpf_0560.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/2818/familieproject_borduur_oisterwijk_kpf_0560.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/2818/familieproject_borduur_oisterwijk_kpf_0560.400x0.jpg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="1200" data-h="801" /></a></p>
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="headline">
+              <div class="container-sticky switch-headline-link" data-url="https://vrolijkheid.nl/pages/vacatures/">
+                <header class="headline-header">
+                  <h3><a href="https://vrolijkheid.nl/pages/vacatures/">Vacatures</a></h3>
+                </header>
+                <div class="headline-images headline-images-rectangular">
+                  <div class="headline-images-background">
+                    <figure class="entry-image headline-image headline-image-rectangular">
+                      <p class="p-figure"><a href="https://vrolijkheid.nl/pages/vacatures/"><img srcset="https://vrolijkheid.nl/site/assets/files/1675/petrakatanic035.200x0.jpg 200w, https://vrolijkheid.nl/site/assets/files/1675/petrakatanic035.400x0.jpg 400w, https://vrolijkheid.nl/site/assets/files/1675/petrakatanic035.800x0.jpg 800w, https://vrolijkheid.nl/site/assets/files/1675/petrakatanic035.1200x0.jpg 1200w, https://vrolijkheid.nl/site/assets/files/1675/petrakatanic035.1600x0.jpg 1600w, https://vrolijkheid.nl/site/assets/files/1675/petrakatanic035.2000x0.jpg 2000w, https://vrolijkheid.nl/site/assets/files/1675/petrakatanic035.2400x0.jpg 2400w" src="https://vrolijkheid.nl/site/assets/files/1675/petrakatanic035.400x0.jpg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="1200" data-h="1800" /></a></p>
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="headline">
+              <div class="container-sticky switch-headline-link" data-url="https://vrolijkheid.nl/pages/wat-we-doen/">
+                <header class="headline-header">
+                  <h3><a href="https://vrolijkheid.nl/pages/wat-we-doen/">Wat we doen</a></h3>
+                </header>
+                <div class="headline-images headline-images-rectangular">
+                  <div class="headline-images-background">
+                    <figure class="entry-image headline-image headline-image-rectangular">
+                      <p class="p-figure"><a href="https://vrolijkheid.nl/pages/wat-we-doen/"><img srcset="https://vrolijkheid.nl/site/assets/files/1380/terapel042.200x0.jpeg 200w, https://vrolijkheid.nl/site/assets/files/1380/terapel042.400x0.jpeg 400w, https://vrolijkheid.nl/site/assets/files/1380/terapel042.800x0.jpeg 800w, https://vrolijkheid.nl/site/assets/files/1380/terapel042.1200x0.jpeg 1200w, https://vrolijkheid.nl/site/assets/files/1380/terapel042.1600x0.jpeg 1600w, https://vrolijkheid.nl/site/assets/files/1380/terapel042.2000x0.jpeg 2000w, https://vrolijkheid.nl/site/assets/files/1380/terapel042.2400x0.jpeg 2400w" src="https://vrolijkheid.nl/site/assets/files/1380/terapel042.400x0.jpeg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="1200" data-h="800" /></a></p>
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="headline">
+              <div class="container-sticky switch-headline-link" data-url="https://vrolijkheid.nl/join/kunstenaar/">
+                <header class="headline-header">
+                  <h3><a href="https://vrolijkheid.nl/join/kunstenaar/">Kunstenaar?</a></h3>
+                </header>
+                <div class="headline-images headline-images-rectangular">
+                  <div class="headline-images-background">
+                    <figure class="entry-image headline-image headline-image-rectangular">
+                      <p class="p-figure"><a href="https://vrolijkheid.nl/join/kunstenaar/"><img srcset="https://vrolijkheid.nl/site/assets/files/2101/kunstenaar.200x0.jpeg 200w, https://vrolijkheid.nl/site/assets/files/2101/kunstenaar.400x0.jpeg 400w, https://vrolijkheid.nl/site/assets/files/2101/kunstenaar.800x0.jpeg 800w, https://vrolijkheid.nl/site/assets/files/2101/kunstenaar.1200x0.jpeg 1200w, https://vrolijkheid.nl/site/assets/files/2101/kunstenaar.1600x0.jpeg 1600w, https://vrolijkheid.nl/site/assets/files/2101/kunstenaar.2000x0.jpeg 2000w, https://vrolijkheid.nl/site/assets/files/2101/kunstenaar.2400x0.jpeg 2400w" src="https://vrolijkheid.nl/site/assets/files/2101/kunstenaar.400x0.jpeg" sizes="(min-width: 800px) 50vw, 100vw" alt="Afbeelding" data-w="1200" data-h="900" /></a></p>
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </aside>
+
+      </div>
+    </div>
+
+    <div class="cookienotice">
+      <p>Wij plaatsen cookies om de website goed te laten functioneren en voor analyse van onze bezoekers. Lees onze privacyverklaring voor meer informatie.</p>
+    </div>
+
+    <footer class="footer">
+      <div class="colophon" role="contentinfo">
+        <div class="content-colophon">
+          <h3 class="assistive-text">Colophon</h3>
+          <address class="copyright-notice copyright-notice-publisher">Publisher — © 2019-now De Vrolijkheid. All rights reserved. <a href="https://vrolijkheid.nl/" title="Link – https://vrolijkheid.nl/" rel="bookmark">https://vrolijkheid.nl/</a></address>
+          <address class="copyright-notice copyright-notice-author">Author — © 2019-now De Vrolijkheid. All rights reserved. <a href="https://vrolijkheid.nl/" title="Link – https://vrolijkheid.nl/" rel="bookmark">https://vrolijkheid.nl/</a></address>
+          <address class="copyright-notice copyright-notice-designer">Designer — © 2019-now Studio Harris Blondman, digital, graphic, and design. All rights reserved. <a href="http://www.harrisblondman.nl/" title="Link – http://www.harrisblondman.nl/" rel="bookmark">http://www.harrisblondman.nl/</a></address>
+          <address class="copyright-notice copyright-notice-generator">Generator — © 2008-now Studio Harris Blondman, digital, graphic, and design. All rights reserved. <a href="http://www.harrisblondman.nl/" title="Link – http://www.harrisblondman.nl/" rel="bookmark">http://www.harrisblondman.nl/</a></address>
+        </div>
+        <!-- <hr /> -->
+      </div>
+      <nav class="submenu">
+        <ul class="submenu-ul">
+          <li>
+            <p><a href="https://vrolijkheid.nl/pages/contact/" title="Menu – Contact">Contact</a></p>
+          </li>
+          <li>
+            <p><a href="https://www.instagram.com/stichtingdevrolijkheid/" title="Menu – Instagram">Instagram</a></p>
+          </li>
+          <li>
+            <p><a href="https://nl-nl.facebook.com/Stichting.de.Vrolijkheid/" title="Menu – Facebook">Facebook</a></p>
+          </li>
+          <li>
+            <p><a href="http://eepurl.com/dryElX" title="Menu – Nieuwsbrief">Nieuwsbrief</a></p>
+          </li>
+          <li>
+            <p><a href="https://vrolijkheid.nl/pages/proclaimer-en-klachtenprocedure/" title="Menu – Proclaimer">Proclaimer</a></p>
+          </li>
+        </ul>
+        <div class="submenu-logos">
+          <p><a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/bijzondere_regelingen/goede_doelen/algemeen_nut_beogende_instellingen/belastingregels_algemeen_nut_beogende_instellingen"><img src="https://vrolijkheid.nl/site/assets/files/2061/anbi.svg" alt="Afbeelding – Logo" /></a></p>
+          <p><a href="https://www.cbf.nl/organisatie/de-vrolijkheid"><img src="https://vrolijkheid.nl/site/assets/files/2059/cbf.png" alt="Afbeelding – Logo" /></a></p>
+          <p><a href="https://www.adessium.org/nl/"><img src="https://vrolijkheid.nl/site/assets/files/2077/adessium.svg" alt="Afbeelding – Logo" /></a></p>
+          <p><a href="https://www.uitvoeringvanbeleidszw.nl/subsidies-en-regelingen/asiel-migratie-en-integratiefonds-amif"><img src="https://vrolijkheid.nl/site/assets/files/2063/eu.svg" alt="Afbeelding – Logo" /></a></p>
+          <p><a href="https://www.kinderpostzegels.nl/?gclid=EAIaIQobChMIj5_Ylc-U5wIVRuJ3Ch31rAWvEAAYASAAEgLrsPD_BwE"><img src="https://vrolijkheid.nl/site/assets/files/2060/kpz.svg" alt="Afbeelding – Logo" /></a></p>
+          <p><a href="https://www.postcodeloterij.nl/"><img src="https://vrolijkheid.nl/site/assets/files/2064/tekengebied_2.svg" alt="Afbeelding – Logo" /></a></p>
+          <p><a href="https://www.coa.nl/"><img src="https://vrolijkheid.nl/site/assets/files/2065/coa.svg" alt="Afbeelding – Logo" /></a></p>
+          <p><a href="https://www.vsbfonds.nl/"><img src="https://vrolijkheid.nl/site/assets/files/2317/vsb_fonds-1.svg" alt="Afbeelding – Logo" /></a></p>
+        </div>
+        <div class="submenu-colophon">
+          <p class="p-colophon" dir="auto">© 2019-now. All rights reserved. Website by <a href="http://www.harrisblondman.nl">Studio Harris Blondman</a></p>
+        </div>
+        <div class="submenu-space"></div>
+      </nav>
+    </footer>
+
+  </div>
+
+</body>
+</html>
