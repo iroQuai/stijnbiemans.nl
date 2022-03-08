@@ -1,5 +1,5 @@
 ---
-title: "Laat dit dier scheten? #DoesItFart?"
+title: "Laat dit dier scheten?"
 date: "2017-01-13"
 categories: 
   - "opmerkelijk"
