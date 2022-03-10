@@ -1,0 +1,6 @@
+{
+    "frontMatter.content.autoUpdateDate": true,
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    }
+}

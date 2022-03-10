@@ -18,7 +18,7 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  description: Op deze site verzamel ik allerlei artikelen, video’s en links die ik interessant vind. **Van groepsdynamiek tot smartphonetechniek.** <br>Soms uitgebreide artikelen, soms een kort zinnetje of alleen een link. Benieuwd? Lees snel verder!
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
@@ -43,14 +43,14 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
+    - name: Berichten
       url: /post/
       weight: 2
     - name: Tags
       url: /tags/
       weight: 3
-    - name: About
-      url: /about/
+    - name: Over mij
+      url: /over/
       weight: 4
     - name: RSS
       url: /index.xml
