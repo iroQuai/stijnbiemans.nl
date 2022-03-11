@@ -1,20 +1,20 @@
 ---
-title: "Mijn ideale media-center setup"
-date: "2016-06-16"
-categories: 
-  - "raspberry-pi"
-  - "technologie"
-tags: 
-  - "kodi"
-  - "media-center"
-  - "nieuwsgroepen"
-  - "nzbsd"
-  - "raspberry-pi"
-  - "sick-beard"
-  - "synology"
-  - "technologie"
-  - "transmission"
-  - "xbmc"
+title: Mijn ideale media-center setup
+date: 2016-06-16
+categories:
+  - technologie
+tags:
+  - kodi
+  - media-center
+  - nieuwsgroepen
+  - nzbsd
+  - raspberry-pi
+  - sick-beard
+  - synology
+  - technologie
+  - transmission
+  - xbmc
+lastmod: 2022-03-11T14:53:02.852Z
 ---
 
 Voordat video-streaming de norm was, was het gangbaar om iedere film of aflevering handmatig te downloaden. Dat ging gepaard met heel wat gedoe: steeds moest je websites afspeuren naar het juiste torrent-bestandje, wachten tot de download klaar was, handmatig de juiste ondertiteling erbij zoeken (en hopen dat de ondertiteling gelijk liep met het beeld). De video keek je dan op je computer, waarvan het beeldscherm en geluid over het algemeen minder goed was dan die van je tv.

@@ -1,14 +1,15 @@
 ---
-title: "Hoe aardig ben jij?"
-date: "2017-03-22"
-categories: 
-  - "menselijk-gedrag"
-tags: 
-  - "aardig"
-  - "culturele-verschillen"
-  - "menselijk-gedrag"
-  - "onderzoek"
-  - "zelfoverschatting"
+title: Hoe aardig ben jij?
+date: 2017-03-22
+categories:
+  - menselijk-gedrag
+tags:
+  - aardig
+  - culturele-verschillen
+  - menselijk-gedrag
+  - onderzoek
+  - zelfoverschatting
+lastmod: 2022-03-11T15:05:37.660Z
 ---
 
 Waarschijnlijk ben jij, gemiddeld gezien, toch net wat aardiger dan anderen, nietwaar? Dat je dat denkt is niet zo bijzonder hoor: maar liefst 98% van de mensen denkt namelijk dat hij/zij bovengemiddeld aardig is! Dit blijkt onder andere uit [recent onderzoek.](https://www.theguardian.com/science/shortcuts/2017/mar/13/why-do-we-think-were-nicer-than-we-actually-are)

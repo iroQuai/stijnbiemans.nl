@@ -1,12 +1,13 @@
 ---
-title: "Hoeveel invloed heb je op je eigen geluk?"
-date: "2018-02-13"
-categories: 
-  - "menselijk-gedrag"
-tags: 
-  - "geluk"
-  - "menselijk-gedrag"
-  - "positiviteit"
+title: Hoeveel invloed heb je op je eigen geluk?
+date: 2018-02-13
+categories:
+  - menselijk-gedrag
+tags:
+  - geluk
+  - menselijk-gedrag
+  - positiviteit
+lastmod: 2022-03-11T15:05:49.100Z
 ---
 
 Sommige mensen lijken altijd gelukkig te zijn, terwijl anderen regelmatig in mineur zijn. Hoeveel invloed heb je eigenlijk op je eigen geluksniveau? Best wat, naar het schijnt!

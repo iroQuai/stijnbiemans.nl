@@ -9,5 +9,6 @@
     {
       "path": "[[workspace]]/static"
     }
-  ]
+  ],
+  "frontMatter.content.autoUpdateDate": true
 }

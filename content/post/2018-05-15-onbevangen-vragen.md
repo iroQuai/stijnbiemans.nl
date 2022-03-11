@@ -1,14 +1,14 @@
 ---
-title: "Onbevangen vragen"
-date: "2018-05-15"
-categories: 
-  - "blog"
-  - "citaten"
-tags: 
-  - "chocolade"
-  - "jongeren"
-  - "ongesteld"
-  - "vragen"
+title: Onbevangen vragen
+date: 2018-05-15
+categories:
+  - menselijk-gedrag
+tags:
+  - chocolade
+  - jongeren
+  - ongesteld
+  - vragen
+lastmod: 2022-03-11T15:05:50.533Z
 ---
 
 Jongeren kunnen prachtig onbevangen vragen stellen. Als volwassene denk je het antwoord meestal wel te weten, maar soms zit je er flink naast! Laatst nog kreeg ik een zo'n vraag over ongesteldheid...

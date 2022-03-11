@@ -1,8 +1,9 @@
 ---
-title: "Hoeveel invloed heb je op je eigen geluk?"
-date: "2019-09-21"
-categories: 
-  - "overige"
+title: Hoeveel invloed heb je op je eigen geluk?
+date: 2019-09-21
+categories:
+  - menselijk-gedrag
+lastmod: 2022-03-11T15:05:54.175Z
 ---
 
 Volgens [dit artikel](http://nymag.com/scienceofus/2014/06/how-much-of-your-own-happiness-can-you-control.html) is de verdeling als volgt: 50% van je persoonlijke geluk wordt bepaald door je genen. Omgevingsfactoren zijn slechts voor 10% verantwoordelijk voor je geluk. De overige 40% wordt bepaald door jezelf (je keuzes, je gedachten)

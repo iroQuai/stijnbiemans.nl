@@ -1,15 +1,15 @@
 ---
 title: "Pi-Hole: Nooit meer online advertenties zien!"
-date: "2017-02-15"
-categories: 
-  - "raspberry-pi"
-  - "technologie"
-tags: 
-  - "advertenties"
-  - "pi-hole"
-  - "raspberry-pi"
-  - "raspbian"
-  - "technologie"
+date: 2017-02-15
+categories:
+  - technologie
+tags:
+  - advertenties
+  - pi-hole
+  - raspberry-pi
+  - raspbian
+  - technologie
+lastmod: 2022-03-11T14:54:26.084Z
 ---
 
 Het internet staat er vol mee: online advertenties. Reclame op internet is big business: bijna iedere gratis online dienst (app/website) heeft op z'n minst één vorm van reclame ingebouwd. Zelfs in de menu's van sommige smart TV's is reclame verwerkt!  [Gratis diensten moeten op één of andere manier toch bekostigd worden](https://decorrespondent.nl/1150/jouw-aandacht-wordt-talloze-malen-per-dag-aan-de-hoogste-bieder-verkocht/98105873250-89aa2cc6).

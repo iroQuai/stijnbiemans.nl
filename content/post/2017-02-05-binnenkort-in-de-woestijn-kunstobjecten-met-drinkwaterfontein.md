@@ -1,16 +1,17 @@
 ---
 title: "Binnenkort in de woestijn: kunstobjecten met drinkwaterfontein!"
-date: "2017-02-05"
-categories: 
-  - "kunst-creativiteit"
-tags: 
-  - "beelden"
-  - "drinkwater"
-  - "duurzaamheid"
-  - "kunst-creativiteit"
-  - "technologie"
-  - "woestijn"
-coverImage: "Woestijn-Sunglacier-design-02-small-e1491636041364.jpg"
+date: 2017-02-05
+categories:
+  - kunst-creativiteit
+tags:
+  - beelden
+  - drinkwater
+  - duurzaamheid
+  - kunst-creativiteit
+  - technologie
+  - woestijn
+coverImage: Woestijn-Sunglacier-design-02-small-e1491636041364.jpg
+lastmod: 2022-03-11T14:54:06.610Z
 ---
 
 Kunst en technologie, wat een fascinerende combinatie is dat toch. Laatst stuitte ik op het SunGlacier project. Hun streven: mensen stimuleren creatieve oplossingen te vinden voor de uitdagingen die klimaatverandering met zich meebrengt.

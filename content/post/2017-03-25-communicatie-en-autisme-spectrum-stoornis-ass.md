@@ -1,8 +1,11 @@
 ---
-title: "Communicatie en Autisme Spectrum Stoornis (ASS)"
-date: "2017-03-25"
-categories: 
-  - "menselijk-gedrag"
+title: Communicatie en Autisme Spectrum Stoornis (ASS)
+date: 2017-03-25
+categories:
+  - menselijk-gedrag
+tags:
+  - autisme
+lastmod: 2022-03-11T15:05:40.024Z
 ---
 
 ![](images/communicatie-autisme.png)

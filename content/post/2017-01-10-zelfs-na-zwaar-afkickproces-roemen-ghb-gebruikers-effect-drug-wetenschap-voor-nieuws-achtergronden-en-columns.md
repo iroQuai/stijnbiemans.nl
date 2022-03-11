@@ -1,15 +1,16 @@
 ---
-title: "Zelfs na zwaar afkickproces roemen ghb-gebruikers effect drug"
-date: "2017-01-10"
-categories: 
-  - "middelen-verslaving"
-tags: 
-  - "afkicken"
-  - "ghb"
-  - "ontwenningsverschijnselen"
-  - "verslaving"
-  - "verslavingszorg"
-coverImage: "ghb-e1491635844640.jpg"
+title: Zelfs na zwaar afkickproces roemen ghb-gebruikers effect drug
+date: 2017-01-10
+categories:
+  - middelen-verslaving
+tags:
+  - afkicken
+  - ghb
+  - ontwenningsverschijnselen
+  - verslaving
+  - verslavingszorg
+coverImage: ghb-e1491635844640.jpg
+lastmod: 2022-03-11T14:53:56.299Z
 ---
 
 Afgelopen week in de Volkskrant veel aandacht voor GHB. In de krant van dinsdag 10 januari staat een artikel op pagina 3: "[Zelfs na zwaar afkickproces roemen ghb-gebruikers effect drug](http://www.volkskrant.nl/wetenschap/zelfs-na-zwaar-afkickproces-roemen-ghb-gebruikers-effect-drug~a4446036/)". Een citaat uit dit artikel:

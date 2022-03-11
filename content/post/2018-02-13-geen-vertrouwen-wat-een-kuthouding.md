@@ -1,17 +1,18 @@
 ---
-title: "Geen vertrouwen? \"Wat een kuthouding!\""
-date: "2018-02-13"
-categories: 
-  - "menselijk-gedrag"
-tags: 
-  - "begeleiding"
-  - "bejegening"
-  - "communicatie"
-  - "jeugd"
-  - "jongeren"
-  - "peter-faber"
-  - "positiviteit"
-  - "weerstand"
+title: Geen vertrouwen? "Wat een kuthouding!"
+date: 2018-02-13
+categories:
+  - menselijk-gedrag
+tags:
+  - begeleiding
+  - bejegening
+  - communicatie
+  - jeugd
+  - jongeren
+  - peter-faber
+  - positiviteit
+  - weerstand
+lastmod: 2022-03-11T15:05:47.251Z
 ---
 
 Peter Faber werkt veel met risicojongeren en (ex)gedetineerden. In een interview met Volkskrant Magazine zei hij daarover het volgende:

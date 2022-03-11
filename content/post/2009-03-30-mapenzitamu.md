@@ -1,16 +1,17 @@
 ---
-title: "Tourmanager Mapenzi Tamu @ AMREF Flying Doctors"
-date: "2009-03-30"
-categories: 
-  - "werkervaring"
-tags: 
-  - "amref"
-  - "begeleiding"
-  - "flying-doctors"
-  - "goede-doelen"
-  - "mapenzi-tamu"
-  - "theater"
-  - "tour"
+title: Tourmanager Mapenzi Tamu @ AMREF Flying Doctors
+date: 2009-03-30
+categories:
+  - werkervaring
+tags:
+  - amref
+  - begeleiding
+  - flying-doctors
+  - goede-doelen
+  - mapenzi-tamu
+  - theater
+  - tour
+lastmod: 2022-03-11T15:03:59.474Z
 ---
 
 [![](images/mapenzitamu.jpg)](http://www.mapenzitamu.nl)

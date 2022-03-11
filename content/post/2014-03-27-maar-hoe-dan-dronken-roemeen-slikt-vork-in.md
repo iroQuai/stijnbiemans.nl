@@ -1,8 +1,9 @@
 ---
-title: "Dronken Roemeen slikt vork in"
-date: "2014-03-27"
-categories: 
-  - "opmerkelijk"
+title: Dronken Roemeen slikt vork in
+date: 2014-03-27
+categories:
+  - opmerkelijk
+lastmod: 2022-03-11T15:04:45.411Z
 ---
 
 Dit is toch te absurd voor woorden...

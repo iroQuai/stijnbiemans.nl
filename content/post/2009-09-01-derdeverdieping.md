@@ -1,17 +1,18 @@
 ---
-title: "Coach @ Minor \"De 3e Verdieping\", Hogeschool Utrecht"
-date: "2009-09-01"
-categories: 
-  - "werkervaring"
-tags: 
-  - "3e-verdieping"
-  - "coaching"
-  - "derde-verdieping"
-  - "hogeschool-utrecht"
-  - "hu"
-  - "minor"
-  - "studenten"
-  - "utrecht"
+title: Coach @ Minor "De 3e Verdieping", Hogeschool Utrecht
+date: 2009-09-01
+categories:
+  - werkervaring
+tags:
+  - 3e-verdieping
+  - coaching
+  - derde-verdieping
+  - hogeschool-utrecht
+  - hu
+  - minor
+  - studenten
+  - utrecht
+lastmod: 2022-03-11T15:04:28.880Z
 ---
 
 In de periode september '09 / januari '10 was ik coach bij minor "de 3e Verdieping" van de Hogeschool Utrecht. Tijdens dit jaar heb ik een groep studenten gecoached bij het uitvoeren van het project "[Cultuur in Oost](http://www.cultuurinoost.nl/)".

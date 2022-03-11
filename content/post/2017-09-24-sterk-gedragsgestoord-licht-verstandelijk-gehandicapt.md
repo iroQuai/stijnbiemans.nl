@@ -1,8 +1,9 @@
 ---
-title: "Sterk gedragsgestoord, Licht Verstandelijk Gehandicapt"
-date: "2017-09-24"
-categories: 
-  - "persoonlijk"
+title: Sterk gedragsgestoord, Licht Verstandelijk Gehandicapt
+date: 2017-09-24
+categories:
+  - menselijk-gedrag
+lastmod: 2022-03-11T15:05:45.653Z
 ---
 
 ​Sinds januari '14 werk ik bij [Aventurijn Wier](https://www.altrecht.nl/zorgeenheid/aventurijn-wier/); één van de vier GGz instellingen die specialistische zorg biedt aan cliënten met Sterke Gedragsstoornissen en die daarnaast Licht Verstandelijk Gehandicapt (SGLVG) zijn. In sommige gevallen ook in combinatie met forensische zorg (SGLVG+).

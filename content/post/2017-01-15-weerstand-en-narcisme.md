@@ -1,16 +1,17 @@
 ---
-title: "Weerstand en Narcisme"
-date: "2017-01-15"
-categories: 
-  - "menselijk-gedrag"
-tags: 
-  - "diagnostiek"
-  - "dsm"
-  - "ggz-agoog"
-  - "martin-appelo"
-  - "menselijk-gedrag"
-  - "narcisme"
-  - "weerstand"
+title: Weerstand en Narcisme
+date: 2017-01-15
+categories:
+  - menselijk-gedrag
+tags:
+  - diagnostiek
+  - dsm
+  - ggz-agoog
+  - martin-appelo
+  - menselijk-gedrag
+  - narcisme
+  - weerstand
+lastmod: 2022-03-11T14:54:04.419Z
 ---
 
 Als aanvulling op mijn werk als begeleider bij Wier ([Altrecht Aventurijn](https://www.altrecht.nl/zorgeenheid/aventurijn-wier/)) volg ik sinds september '16 de opleiding tot [GGZ Agoog bij de RINO groep.](http://www.rinogroep.nl/GA16A) Op advies van collega's probeer ik zo nu en dan wat van de opgedane kennis te delen. Hieronder een eerste poging! Reacties, feedback, vragen en andere opmerking zijn zeer welkom...
