@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: nl-nl
 theme: hugo-theme-stack
 paginate: 5
-title: Stijn Biemans
+title: Hoi! Ik ben Stijn 👋
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -22,6 +22,10 @@ permalinks:
     post: /berichten/:slug/
     page: /:slug/
 
+taxonomies:
+  category: categories
+  tag: tags
+  
 params:
     mainSections:
         - post
@@ -38,12 +42,12 @@ params:
         lastUpdated: 2 Jan 2006 - 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Berichtjes over van alles, van groepsdynamiek tot smartphonetechniek.
+        emoji: 
+        subtitle: Op deze blog plaats ik berichtjes over van alles; van groepsdynamiek tot smartphonetechniek. 
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: src/avatar.png
 
     article:
         math: false
@@ -134,9 +138,6 @@ params:
     widgets:
         homepage:
             - type: search
-            - type: archives
-              params:
-                  limit: 5
             - type: categories
               params:
                   limit: 10
@@ -149,14 +150,14 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site: 
+            site: stijnbiemans
 
             # Available values: summary, summary_large_image
             card: summary_large_image
 
     defaultImage:
         opengraph:
-            enabled: false
+            enabled: true
             local: false
             src:
 
