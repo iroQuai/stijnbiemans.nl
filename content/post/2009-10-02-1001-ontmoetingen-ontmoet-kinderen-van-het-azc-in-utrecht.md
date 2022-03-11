@@ -1,16 +1,16 @@
 ---
 title: "1001 ontmoetingen: Ontmoet kinderen van het AZC in Utrecht!"
-date: "2009-10-02"
-categories: 
-  - "blog"
-  - "overige"
-tags: 
-  - "azc"
-  - "kinderen"
-  - "ontmoeting"
-  - "utrecht"
-  - "vrolijkheid"
-  - "workshops"
+date: 2009-10-02
+categories:
+  - overige
+tags:
+  - azc
+  - kinderen
+  - ontmoeting
+  - utrecht
+  - vrolijkheid
+  - workshops
+lastmod: 2022-03-11T14:57:58.845Z
 ---
 
 \[caption id="" align="alignright" width="124" caption="Een ontmoeting tussen KJ Sollie en Farhiya "\]![KJ Sollie met Farhiya](images/vrolijkheid_0181.kopie.jpg)\[/caption\]

@@ -1,14 +1,14 @@
 ---
-title: "Regiocoördinator @ Kunstbende Utrecht"
-date: "2008-01-16"
-categories: 
-  - "overige"
-  - "werkervaring"
-tags: 
-  - "festival"
-  - "kunstbende"
-  - "productie"
-  - "utrecht"
+title: Regiocoördinator @ Kunstbende Utrecht
+date: 2008-01-16
+categories:
+  - werkervaring
+tags:
+  - festival
+  - kunstbende
+  - productie
+  - utrecht
+lastmod: 2022-03-11T14:57:58.819Z
 ---
 
 ### periode: januari 2008  – juli 2008 (7 maanden)

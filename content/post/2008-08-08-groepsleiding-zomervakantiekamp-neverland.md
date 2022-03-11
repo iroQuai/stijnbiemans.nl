@@ -1,13 +1,13 @@
 ---
-title: "Groepsleiding @ zomervakantiekamp Neverland"
-date: "2008-08-08"
-categories: 
-  - "overige"
-  - "werkervaring"
-tags: 
-  - "begeleiding"
-  - "kinderkamp"
-  - "neverland"
+title: Groepsleiding @ zomervakantiekamp Neverland
+date: 2008-08-08
+categories:
+  - werkervaring
+tags:
+  - begeleiding
+  - kinderkamp
+  - neverland
+lastmod: 2022-03-11T14:57:58.824Z
 ---
 
 Periode: Augustus '08 (8 dagen)

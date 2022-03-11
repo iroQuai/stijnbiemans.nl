@@ -1,18 +1,18 @@
 ---
-title: "Projectleider \"Move Your Art\" @ Koninkrijksspelen Cultuur '07"
-date: "2007-05-02"
-categories: 
-  - "overige"
-  - "werkervaring"
-tags: 
-  - "aruba"
-  - "begeleiding"
-  - "curacao"
-  - "koninkrijksspelen"
-  - "kunstbende"
-  - "productie"
-  - "talent"
-  - "workshops"
+title: Projectleider "Move Your Art" @ Koninkrijksspelen Cultuur '07
+date: 2007-05-02
+categories:
+  - werkervaring
+tags:
+  - aruba
+  - begeleiding
+  - curacao
+  - koninkrijksspelen
+  - kunstbende
+  - productie
+  - talent
+  - workshops
+lastmod: 2022-03-11T14:57:58.817Z
 ---
 
 ### Periode: Mei 2007 - augustus 2007 (4 maanden)

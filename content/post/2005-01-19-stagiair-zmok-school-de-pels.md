@@ -1,16 +1,16 @@
 ---
-title: "Stagiair @ ZMOK-school de Pels"
-date: "2005-01-19"
-categories: 
-  - "overige"
-  - "werkervaring"
-tags: 
-  - "begeleiding"
-  - "cmv"
-  - "jongeren"
-  - "stage"
-  - "utrecht"
-  - "zmok"
+title: Stagiair @ ZMOK-school de Pels
+date: 2005-01-19
+categories:
+  - werkervaring
+tags:
+  - begeleiding
+  - cmv
+  - jongeren
+  - stage
+  - utrecht
+  - zmok
+lastmod: 2022-03-11T14:57:58.804Z
 ---
 
 Als tweedejaars stage heb ik een half jaar (drie dagen per week) op ZMOK school de Pels gewerkt. Tijdens deze stage heb ik onder andere een schoolkrant opgezet, activiteiten verzonnen en uitgevoerd op het schoolkamp en meegedraaid met in alle lessen en klassen.

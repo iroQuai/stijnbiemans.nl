@@ -1,13 +1,13 @@
 ---
-title: "Coördinator Sport en Spel @ zomervakantiekamp Neverland"
-date: "2006-07-22"
-categories: 
-  - "overige"
-  - "werkervaring"
-tags: 
-  - "begeleiding"
-  - "kinderkamp"
-  - "neverland"
+title: Coördinator Sport en Spel @ zomervakantiekamp Neverland
+date: 2006-07-22
+categories:
+  - werkervaring
+tags:
+  - begeleiding
+  - kinderkamp
+  - neverland
+lastmod: 2022-03-11T14:57:58.813Z
 ---
 
 Periode: juli '06 (8 dagen)

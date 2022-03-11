@@ -1,15 +1,15 @@
 ---
-title: "Aruba, here I come! :)"
-date: "2009-06-02"
-categories: 
-  - "blog"
-  - "overige"
-tags: 
-  - "aruba"
-  - "begeleiding"
-  - "koninkrijksspelen"
-  - "kunstbende"
-  - "workshops"
+title: Aruba, here I come! :)
+date: 2009-06-02
+categories:
+  - overige
+tags:
+  - aruba
+  - begeleiding
+  - koninkrijksspelen
+  - kunstbende
+  - workshops
+lastmod: 2022-03-11T14:57:58.833Z
 ---
 
 \[caption id="" align="alignright" width="209" caption="Nee serieus, ik moet gewoon werken! "\]![Nee serieus, ik moet gewoon werken! ](images/anguilla_719_l.jpg)\[/caption\]

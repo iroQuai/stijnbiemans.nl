@@ -1,14 +1,14 @@
 ---
-title: "Regiocoördinator @ Kunstbende Flevoland"
-date: "2009-03-27"
-categories: 
-  - "overige"
-  - "werkervaring"
-tags: 
-  - "festival"
-  - "flevoland"
-  - "kunstbende"
-  - "lelystad"
+title: Regiocoördinator @ Kunstbende Flevoland
+date: 2009-03-27
+categories:
+  - werkervaring
+tags:
+  - festival
+  - flevoland
+  - kunstbende
+  - lelystad
+lastmod: 2022-03-11T14:57:58.829Z
 ---
 
 ### periode: Oktober 2008 – Maart 2009 (5 maanden)
