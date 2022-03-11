@@ -12,7 +12,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
-DefaultContentLanguage: nl
+DefaultContentLanguage: 'nl'
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Berichtjes over van alles, van *groepsdynamiek* tot *smartphonetechniek*.
+        subtitle: Berichtjes over van alles, van groepsdynamiek tot smartphonetechniek.
         avatar:
             enabled: true
             local: true
@@ -191,6 +191,27 @@ menu:
           url: https://twitter.com/stijnbiemans
           params:
               icon: brand-twitter
+
+        - identifier: spotify
+          name: Spotify
+          url: https://open.spotify.com/user/stijnbiemans/
+          params:
+              icon: brand-spotify
+
+        - identifier: pinterest
+          name: Pinterest
+          url: https://nl.pinterest.com/stijnbiemans/
+          params:
+              icon: brand-pinterest
+
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/in/stijnbiemans/
+          params:
+              icon: brand-linkedin
+
+
+
 
 related:
     includeNewer: true
