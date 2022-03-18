@@ -78,6 +78,7 @@ collections:
     path: '{{slug}}/_index'
     media_folder: ''
     public_folder: ''
+    create: true
     fields:
       - label: Title
         name: title
