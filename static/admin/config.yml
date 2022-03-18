@@ -5,10 +5,10 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - name: 'berichten'
+  - name: 'post'
     label: 'berichten'
-    folder: 'content/Berichten'
-   # preview_path: "Berichten/{{year}}{{month}}{{day}}-{{slug}}"
+    folder: 'content/post'
+    # preview_path: "post/{{year}}{{month}}{{day}}-{{slug}}"
     create: true
     slug: '{{year}}{{month}}{{day}}-{{slug}}'
     editor:
@@ -19,12 +19,24 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'media'
-    label: 'in de media'
-    folder: 'content/Media'
-    # preview_path: "berichten/{{year}}{{month}}{{day}}-{{slug}}"
+  - name: 'page'
+    label: 'Paginas'
+    folder: 'content/page'
     create: true
-    # slug: '{{year}}{{month}}{{day}}-{{slug}}'
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'categories'
+    label: 'categories'
+    folder: 'content/categories'
+    preview_path: "categories/{{slug}}/index.md"
+    create: true
+    slug: '{{slug}}'
     editor:
       preview: false
     fields:

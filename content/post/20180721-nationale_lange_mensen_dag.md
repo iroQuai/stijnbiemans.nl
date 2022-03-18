@@ -1,5 +1,5 @@
 ---
-title: Eindelijke een dag voor mij
+title: Eindelijk een dag voor mensen zoals ik
 date: 2018-07-21
 categories:
   - overige
