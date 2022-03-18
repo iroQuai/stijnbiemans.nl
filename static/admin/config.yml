@@ -75,7 +75,7 @@ collections:
       - label: slug
         name: slug
         widget: string
-      - label: discription
+      - label: description
         name: omschrijving
         widget: string
       - label: 'Cover Image'
