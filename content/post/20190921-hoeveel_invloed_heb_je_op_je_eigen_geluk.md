@@ -4,6 +4,9 @@ date: 2019-09-21
 categories:
   - menselijk-gedrag
 lastmod: 2022-03-18T21:47:47.568Z
+tags:
+  - Geluk
+  - Percentages
 image: /images/04-happiness-chart.nocrop.w710.h2147483647.2x.gif
 ---
 
