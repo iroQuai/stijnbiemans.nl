@@ -20,6 +20,7 @@ public_folder: /images
 collections:
   - name: 'post'
     label: 'berichten'
+    label_singular: 'bericht'
     folder: 'content/post'
     # preview_path: "post/{{year}}{{month}}{{day}}-{{slug}}"
     create: true
@@ -27,10 +28,13 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'Titel', widget: 'string' }
-      - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
-      - { label: 'Publish Date', name: 'datum', widget: 'datetime' }
-      - { label: 'Description', name: 'omschrijving', widget: 'string' }
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Datum van publicatie", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Inhoud", name: "body", widget: "markdown"}
+      - {label: 'Categories', name: 'categories', widget: "list"}
+      - {label: 'tags', name: 'tags', widget: "list"}
+      - {label: "datum laatste edit", name: "lastmod", widget: "datetime"}
       - { label: 'Body', name: 'inhoud', widget: 'markdown' }
       - label: "Featured Image"
         name: "featured image"
@@ -42,7 +46,8 @@ collections:
             multiple: true
 
   - name: 'page'
-    label: 'Paginas'
+    label: 'paginas'
+    label_singular: 'pagina'
     folder: 'content/page'
     create: true
     slug: '{{slug}}'

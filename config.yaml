@@ -159,7 +159,7 @@ params:
         opengraph:
             enabled: true
             local: false
-            src:
+            src: /images/
 
     colorScheme:
         # Display toggle
