@@ -31,9 +31,14 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum van publicatie", name: "date", widget: "datetime"}
       - {label: 'Categories', name: 'categories', widget: "list", allow_add: true}
-      - {label: 'tags', name: 'tags', widget: "list", allow_add: true}
+      - label: 'tags'
+        name: 'tags'
+        widget: "list"
+        allow_add: true
+        field: {label: tags, name: tags, widget: string}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Inhoud", name: "body", widget: "markdown"}
+
 
 
   - name: 'page'
