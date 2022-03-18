@@ -72,11 +72,17 @@ collections:
       - label: Title
         name: title
         widget: string
+      - label: slug
+        name: slug
+        widget: string
+      - label: discription
+        name: omschrijving
+        widget: string
       - label: 'Cover Image'
         name: 'image'
         widget: 'image'
-        choose_url: true
+        choose_url: false
         default: "featured.jpg"
         media_library:
           config:
-            multiple: true
+            multiple: false
