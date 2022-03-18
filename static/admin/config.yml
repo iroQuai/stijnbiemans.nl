@@ -30,11 +30,20 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum van publicatie", name: "date", widget: "datetime"}
-      - {label: 'Categories', name: 'categories', widget: "list", allow_add: true}
+      - label: 'categories'
+        name: 'categories'
+        widget: "list"
+        allow_add: true
+        add_to_top: true
+        collapsed: true
+        field: {label: categories, name: categories, widget: string}
+    
       - label: 'tags'
         name: 'tags'
         widget: "list"
         allow_add: true
+        add_to_top: true
+        collapsed: true
         field: {label: tags, name: tags, widget: string}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Inhoud", name: "body", widget: "markdown"}
