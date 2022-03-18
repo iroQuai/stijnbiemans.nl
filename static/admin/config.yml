@@ -61,16 +61,22 @@ collections:
           config:
             multiple: true
 
-  - name: 'categories'
-    label: 'categories'
-    folder: 'content/categories'
-    preview_path: "/{{slug}}/"
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: false
+  - name: categories
+    label: categories
+    label_singular: 'categorie'
+    folder: content/categories
+    path: '{{slug}}/_index'
+    media_folder: ''
+    public_folder: ''
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: Title
+        name: title
+        widget: string
+      - label: 'Cover Image'
+        name: 'image'
+        widget: 'image'
+        choose_url: true
+        default: "featured.jpg"
+        media_library:
+          config:
+            multiple: true
