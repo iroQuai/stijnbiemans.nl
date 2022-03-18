@@ -1,9 +1,22 @@
+site_url: https://stijnbiemans.netlify.app
+display_url: https://stijnbiemans.netlify.app
+
+search: true
+
 backend:
   name: git-gateway
   repo: iroQuai/stijnbiemans.nl
   branch: 'main'
+
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
 media_folder: static/images
 public_folder: /images
+
 collections:
   - name: 'post'
     label: 'berichten'
@@ -14,11 +27,20 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title', name: 'Titel', widget: 'string' }
       - { label: 'Categories', name: 'categories', widget: 'select', options: ["blog", "media"] }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Publish Date', name: 'datum', widget: 'datetime' }
+      - { label: 'Description', name: 'omschrijving', widget: 'string' }
+      - { label: 'Body', name: 'inhoud', widget: 'markdown' }
+      - label: "Featured Image"
+        name: "featured image"
+        widget: "image"
+        choose_url: true
+        default: "/images/post/{{slug}}_featured.jpg"
+        media_library:
+          config:
+            multiple: true
+
   - name: 'page'
     label: 'Paginas'
     folder: 'content/page'
@@ -27,10 +49,18 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Title', name: 'titel', widget: 'string' }
+      - { label: 'Description', name: 'omschrijving', widget: 'string' }
+      - { label: 'Body', name: 'inhoud', widget: 'markdown' }
+      - label: "Featured Image"
+        name: "featured image"
+        widget: "image"
+        choose_url: true
+        default: "/images/page/{{slug}}_featured.jpg"
+        media_library:
+          config:
+            multiple: true
+
   - name: 'categories'
     label: 'categories'
     folder: 'content/categories'
