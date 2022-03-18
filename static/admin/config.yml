@@ -35,9 +35,6 @@ collections:
       - {label: 'tags', name: 'tags', widget: "list"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Inhoud", name: "body", widget: "markdown"}
-
-
-      - {label: 'Body', name: 'inhoud', widget: 'markdown' }
 #      - label: "Featured Image"
 #        name: "featured image"
 #        widget: "image"
