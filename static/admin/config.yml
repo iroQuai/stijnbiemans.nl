@@ -34,7 +34,7 @@ collections:
   - name: 'categories'
     label: 'categories'
     folder: 'content/categories'
-    preview_path: "categories/{{slug}}/index.md"
+    preview_path: "/{{slug}}/"
     create: true
     slug: '{{slug}}'
     editor:

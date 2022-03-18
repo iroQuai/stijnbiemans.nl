@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://stijnbiemans.netlify.app
 languageCode: nl-nl
 theme: hugo-theme-stack
 paginate: 5
