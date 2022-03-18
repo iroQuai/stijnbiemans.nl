@@ -30,20 +30,22 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum van publicatie", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Inhoud", name: "body", widget: "markdown"}
+      - {label: "Datum laatste edit", name: "lastmod", widget: "datetime"}
       - {label: 'Categories', name: 'categories', widget: "list"}
       - {label: 'tags', name: 'tags', widget: "list"}
-      - {label: "datum laatste edit", name: "lastmod", widget: "datetime"}
-      - { label: 'Body', name: 'inhoud', widget: 'markdown' }
-      - label: "Featured Image"
-        name: "featured image"
-        widget: "image"
-        choose_url: true
-        default: "/images/post/{{slug}}_featured.jpg"
-        media_library:
-          config:
-            multiple: true
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Inhoud", name: "body", widget: "markdown"}
+
+
+      - {label: 'Body', name: 'inhoud', widget: 'markdown' }
+#      - label: "Featured Image"
+#        name: "featured image"
+#        widget: "image"
+#        choose_url: true
+#        default: "/images/post/{{slug}}_featured.jpg"
+#        media_library:
+#          config:
+#            multiple: true
 
   - name: 'page'
     label: 'paginas'
