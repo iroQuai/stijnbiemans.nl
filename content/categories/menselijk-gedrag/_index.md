@@ -1,9 +1,9 @@
 ---
-title: "Mensen"
-description: "Een bonte verzameling items met thema's psychologie, GGZ, communicatie en allerlei menselijk gedrag. Lastig om een goeie paraplu-term voor te verzinnen, maar hetgeen alles bindt: 'de mens'"
+title: "Menselijk gedrag"
+description: "Een bonte verzameling items met thema's psychologie, GGZ, communicatie en allerlei menselijk gedrag. Lastig om een goeie paraplu-term voor te verzinnen, maar hetgeen alles bindt: 'Menselijk gedrag'"
 slug: "menselijk-gedrag"
-image: "psychologie.jpg"
+image: "featured.jpg"
 style:
-    background: "#2a9d8f"
+    background: "#FD931D"
     color: "#fff"
 ---

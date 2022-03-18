@@ -2,8 +2,8 @@
 title: "Technologie"
 description: "Dingen die mijn innerlijke nerd aanspreken"
 slug: "technologie"
-image: "tech.jpg"
+image: "featured.jpg"
 style:
-    background: "#2a9d8f"
+    background: "#16B0DD"
     color: "#fff"
 ---
