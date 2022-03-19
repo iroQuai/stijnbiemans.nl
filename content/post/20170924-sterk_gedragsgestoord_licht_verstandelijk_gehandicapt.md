@@ -5,7 +5,7 @@ categories:
   - menselijk-gedrag
 lastmod: 2022-03-11T15:05:45.653Z
 draft: false
-image: /images/illustratieblog-8.png
+image: /images/cover_whitepaper_mee_lvb.jpg
 ---
 
 ​Sinds januari '14 werk ik bij [Aventurijn Wier](https://www.altrecht.nl/zorgeenheid/aventurijn-wier/); één van de vier GGz instellingen die specialistische zorg biedt aan cliënten met Sterke Gedragsstoornissen en die daarnaast Licht Verstandelijk Gehandicapt (SGLVG) zijn. In sommige gevallen ook in combinatie met forensische zorg (SGLVG+).
