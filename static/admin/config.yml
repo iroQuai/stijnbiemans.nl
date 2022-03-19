@@ -47,7 +47,7 @@ collections:
         required: false
         field: {label: tags, name: tags, widget: string}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Inhoud", name: "body", widget: "markdown", required: false}
+      - {label: "Inhoud", name: "body", widget: "markdown"}
 
 
 
