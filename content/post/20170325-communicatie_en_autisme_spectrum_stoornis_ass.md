@@ -9,7 +9,7 @@ lastmod: 2022-03-11T15:05:40.024Z
 draft: false
 image: /images/communicatie-autisme.png
 ---
-![]()
+!
 
 Bovenstaande afbeelding laat op prachtige wijze zien hoe complex een 'gewoon gesprek' kan zijn voor mensen met ASS (Autisme Spectrum Stoornis).  Bij het origineel van deze afbeelding (van [the Little Black Duck](https://www.thelittleblackduck.com.au/product/autism-and-communication/)) staat een Engelstalige uitleg, die ik hieronder in het Nederlands heb vertaald:
 
