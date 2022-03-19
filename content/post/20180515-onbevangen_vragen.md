@@ -18,6 +18,7 @@ Jongeren kunnen prachtig onbevangen vragen stellen. Als volwassene denk je het a
 
 Ik geloof dat ik iets gezegd heb over persoonlijke voorkeuren, en dat je je vriendin (niet 'wijf') dus moet leren kennen.  Toen ik deze situatie deelde met vrienden en collega's, bleek trouwens dat ik er ontzettend naast zat! Er is een eenduidig antwoord op de vraag, dat ik van drie aparte bronnen te horen kreeg (en meerdere dames daarna bevestigd hebben). Het juiste antwoord blijkt namelijk: "_Tony Chocolony Karamel en Zeezout_"!
 
+![](images/chgoco.png)
+
 Wist ik veel... daar stond ik dan, te bazelen over persoonlijke voorkeuren. Je bent nooit te oud om te leren, dat blijkt maar weer! ;)
 
-![](images/chgoco.png)
