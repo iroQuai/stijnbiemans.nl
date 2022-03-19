@@ -19,4 +19,4 @@ Dit probleem zul je NOOIT meer hebben met een robotische bierhouder-arm! Of je j
 
 Ik kan niet wachten tot ik er ook een heb! :)
 
-https://www.youtube.com/watch?v=-P6MMVjfapA
+{{< youtube id="-P6MMVjfapA" title="Robotic Beer Holder" >}}
