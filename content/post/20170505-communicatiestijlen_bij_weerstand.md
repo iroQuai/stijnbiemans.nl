@@ -18,7 +18,17 @@ Er zijn situaties waarin een cliënt zo veel weerstand laat zien, dat ik niet me
 
 Na het inbrengen van de casus gaf de docent haar visie op weerstand: _“Weerstand is een uitnodiging om op een andere manier samen te werken”._ Zij legde daarbij uit dat er weerstand kan ontstaan omdat je nog niet de juiste manier van contact maken (communiceren) gevonden hebt. Ter ondersteuning gaf zij onderstaand rijtje met communicatie-strategieën. Haar advies: "_Als je een strategie toepast, zou je de strategieën daarvoor al met succes geprobeerd moeten hebben. Werkt je huidige strategie niet? Probeer dan eens een strategie hogerop in het rijtje_."
 
-Communicatie-strategieën bij weerstand a. Ontwijken b. Aandachtig aanwezig zijn c. Faciliteren d. Informeren e. Steunen en bemoedigen f. Dialoog g. Onderhandelen h. Verleiden i. Overtuigen (drang) j. Afdwingen (dwang)
+Communicatie-strategieën bij weerstand 
+a. Ontwijken 
+b. Aandachtig aanwezig zijn 
+c. Faciliteren
+d. Informeren 
+e. Steunen en bemoedigen 
+f. Dialoog 
+g. Onderhandelen 
+h. Verleiden 
+i. Overtuigen (drang) 
+j. Afdwingen (dwang)
 
 In de casus met Samuel heeft me dit erg geholpen. Ik besefte me dat ik vrij eenzijdig was in mijn communicatie-strategieën. Ik koos vaak voor Informeren (“_als je niet gaat douchen ruik je onfris_” of “_je word verwacht bij die-en-die therapie_”.) en de Dialoog (ik stelde open vragen in de hoop dat er een gesprek ontstond, dat nooit van de grond kwam). Als beide strategieën faalden, koos ik voor “Ontwijken” en liet ik hem in de woonkamer zitten zonder al te veel contact te zoeken. Na bovenstaand rijtje eens bekeken te hebben, heb ik mijn strategie aangepast: ik koos voor “aandachtig aanwezig zijn” en ben gewoon in de woonkamer bij hem gaan zitten terwijl hij tv keek, zonder woorden te gebruiken.
 
