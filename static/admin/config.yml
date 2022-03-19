@@ -23,9 +23,9 @@ collections:
     label: 'berichten'
     label_singular: 'bericht'
     folder: 'content/post'
-    preview_path: "berichten/{{slug}}"
+    preview_path: "berichten/{{title}}"
     create: true
-    slug: '{{year}}{{month}}{{day}}-{{slug}}'
+    slug: '{{year}}{{month}}{{day}}-{{title}}'
     editor:
       preview: false
     fields:
