@@ -8,10 +8,8 @@ tags:
   - menselijk-gedrag
   - weerstand
   - ggz-agoog
-Image: weerstand2.png
 categories:
   - menselijk-gedrag
-image: /images/weerstand2.jpg
 ---
 
 Er zijn situaties waarin een cliënt zo veel weerstand laat zien, dat ik niet meer goed weet hoe ik hier mee om moet gaan. In zulke situaties kan ik geïrriteerd of gefrustreerd raken. Recentelijk had ik zo'n situatie bij Samuel\*, een van mijn cliënten.  
