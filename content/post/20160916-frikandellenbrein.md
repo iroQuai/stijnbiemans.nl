@@ -1,4 +1,7 @@
 ---
+draft: false
+coverImage: frikandel-800x175.jpg
+lastmod: 2022-03-11T15:05:12.726Z
 title: Frikandellenbrein
 date: 2016-09-16
 categories:
@@ -10,8 +13,7 @@ tags:
   - opmerkelijk
   - snacks
   - taart
-coverImage: frikandel-800x175.jpg
-lastmod: 2022-03-11T15:05:12.726Z
+image: /images/frikandel-800x175.jpg
 ---
 
 Hoe bepalen je hersenen wat je onthoudt en wat niet? Ik heb geen idee hoe dat bij mij werkt, maar de meest nutteloze informatie blijft soms hangen. Zo blijkt mijn brein een voorkeur te hebben voor frikandellennieuws. Wat? Frikandellennieuws.
