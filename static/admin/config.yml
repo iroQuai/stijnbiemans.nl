@@ -23,7 +23,7 @@ collections:
     label: 'berichten'
     label_singular: 'bericht'
     folder: 'content/post'
-    preview_path: "post/{{year}}{{month}}{{day}}-{{slug}}"
+    preview_path: "berichten/{{slug}}"
     create: true
     slug: '{{year}}{{month}}{{day}}-{{slug}}'
     editor:
@@ -31,7 +31,7 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum van publicatie", name: "date", widget: "datetime"}
-      - { label: "Draft", name: "draft", widget: "boolean", default: true, required: false}   
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }   
       - label: 'categories'
         name: 'categories'
         widget: "list"
@@ -63,7 +63,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'omschrijving', name: 'description', widget: 'string', required: false}
-      - { label: "Draft", name: "draft", widget: "boolean", default: true, required: false }   
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }   
       - { label: 'inhoud', name: 'body', widget: 'markdown' }
       - label: "Featured Image"
         name: "featured image"
