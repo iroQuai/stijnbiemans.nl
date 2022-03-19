@@ -1,11 +1,12 @@
 ---
-title: "Over mij"
-date: "2017-04-08"
+title: Over mij
+date: 2017-04-08
 menu:
-    main: 
-        weight: -100
-        params:
-            icon: user
+  main:
+    weight: -100
+    params:
+      icon: user
+featured image: /images/avatar.png
 ---
 
 ![](images/stijn-biemans-e1491736881816.jpg)Ha! Ik ben Stijn en woon in Utrecht met mijn vriendin Laura en dochter Nora. Ik werk in de [Geestelijke Gezondheidszorg](https://www.altrecht.nl/zorgeenheid/aventurijn-wier/) als sociotherapeut (3 dagen per week) en trainer Seks&Relaties (1 dag per week). Ik volg een post-HBO opleiding tot [GGZ agoog bij de RINO groep](https://www.rinogroep.nl/opleiding/4438) (nov. '17 verwacht ik mijn diploma te ontvangen). Op onregelmatige basis geef ik [workshops en demonstraties diabolo](http://www.diaboloworkshop.nl).
