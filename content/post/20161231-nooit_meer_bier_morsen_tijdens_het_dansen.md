@@ -9,7 +9,6 @@ tags:
   - bier
   - dansen
   - technologie
-coverImage: maxresdefault1-e1491635922473.jpg
 lastmod: 2022-03-11T14:53:46.376Z
 ---
 
@@ -19,4 +18,4 @@ Dit probleem zul je NOOIT meer hebben met een robotische bierhouder-arm! Of je j
 
 Ik kan niet wachten tot ik er ook een heb! :)
 
-https://www.youtube.com/watch?v=-P6MMVjfapA
+{{< youtube P6MMVjfapA" title="Robotic beer holder" >}}
