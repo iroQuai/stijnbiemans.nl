@@ -1,4 +1,7 @@
 ---
+draft: false
+coverImage: wp-1483730275299-e1491635764461.jpg
+lastmod: 2022-03-11T14:53:52.106Z
 title: Bier voor onder de douche!
 date: 2017-01-06
 categories:
@@ -11,8 +14,7 @@ tags:
   - middelen-verslaving
   - opmerkelijk
   - product
-coverImage: wp-1483730275299-e1491635764461.jpg
-lastmod: 2022-03-11T14:53:52.106Z
+image: /images/wp-1483730275299-e1491635764461.jpg
 ---
 
 Sinds kort is er een biertje op de markt speciaal voor onder de douche! Zoet, sterk (10%) en in een handzaam flesje van 18cl, waardoor je m in een paar slikken op hebt (bij te lang douchen wordt je bier toch alleen maar warm).
