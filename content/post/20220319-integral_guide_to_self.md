@@ -1,5 +1,5 @@
 ---
-title: "Integral guide to self "
+title: "Integral guide to well-being"
 date: 2022-03-19T19:35:12.903Z
 draft: true
 image: /images/tig_splash.png
