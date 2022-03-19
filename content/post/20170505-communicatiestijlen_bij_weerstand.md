@@ -3,13 +3,14 @@ draft: false
 lastmod: 2022-03-11T15:05:41.809Z
 title: Communicatiestijlen bij weerstand
 date: 2017-05-05
+categories:
+  - menselijk-gedrag
 tags:
   - communicatie
   - menselijk-gedrag
   - weerstand
   - ggz-agoog
-categories:
-  - menselijk-gedrag
+image: /images/weerstand2.jpg
 ---
 
 Er zijn situaties waarin een cliënt zo veel weerstand laat zien, dat ik niet meer goed weet hoe ik hier mee om moet gaan. In zulke situaties kan ik geïrriteerd of gefrustreerd raken. Recentelijk had ik zo'n situatie bij Samuel\*, een van mijn cliënten.  
