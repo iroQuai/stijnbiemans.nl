@@ -9,6 +9,7 @@ tags:
   - ongesteld
   - vragen
 lastmod: 2022-03-11T15:05:50.533Z
+image: /images/ongesteld-e1526372358474.jpg
 ---
 
 Jongeren kunnen prachtig onbevangen vragen stellen. Als volwassene denk je het antwoord meestal wel te weten, maar soms zit je er flink naast! Laatst nog kreeg ik een zo'n vraag over ongesteldheid...
