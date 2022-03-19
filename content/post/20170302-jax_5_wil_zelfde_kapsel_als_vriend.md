@@ -1,11 +1,12 @@
 ---
-title: "Jax (5) wil zelfde kapsel als vriend: 'Dan kan de juf ons niet uit elkaar
-  houden'"
+title: "Jax (5) wil zelfde kapsel als vriend: 'Dan kan de juf ons niet uit
+  elkaar houden'"
 date: 2017-03-02
 categories:
   - opmerkelijk
 coverImage: wp-1488473686702-e1491636537490.jpg
 lastmod: 2022-03-11T14:54:43.150Z
+image: /images/wp-1488473686702-e1491636537490.jpg
 ---
 
 [Dit is toch fantastisch](http://www.ad.nl/buitenland/jax-5-wil-zelfde-kapsel-als-vriendje-dan-kan-de-juf-ons-niet-uit-elkaar-houden~aba0bd61/):
