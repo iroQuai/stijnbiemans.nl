@@ -61,13 +61,14 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'titel', widget: 'string' }
-      - { label: 'Description', name: 'omschrijving', widget: 'string' }
+      - { label: 'Description', name: 'omschrijving', widget: 'string', required: false}
       - { label: 'Body', name: 'inhoud', widget: 'markdown' }
       - label: "Featured Image"
         name: "featured image"
         widget: "image"
         choose_url: true
         default: "/images/page/{{slug}}_featured.jpg"
+        required: false
         media_library:
           config:
             multiple: true
@@ -84,9 +85,11 @@ collections:
       - label: Title
         name: title
         widget: string
+        hint: "om een of andere reden moet je bij aanmaken de slug gebruiken in dit veld. Daarna kan je het aanpassen naar iedere gewenste titel"
       - label: slug
         name: slug
         widget: string
+        hint: "de categorie zoals die ook in de posts beschreven wordt"
       - label: omschrijving
         name: description
         widget: string
