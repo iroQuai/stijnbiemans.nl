@@ -1,6 +1,7 @@
 ---
 title: Verslaving, hoe werkt dat eigenlijk?
 date: 2017-02-10
+draft: false
 categories:
   - middelen-verslaving
 tags:
@@ -8,6 +9,7 @@ tags:
   - uitleg
   - verslaving
 lastmod: 2022-03-11T14:54:10.290Z
+image: /images/good-news-about-substance-abuse.jpg
 ---
 
 Veel van mijn cliënten hebben te maken met verslavingsproblemen. Alcohol, diverse soorten drugs, maar ook eet-, game-, gok- en porno-verslavingen kom ik wel eens tegen. Ik probeer die mensen te ondersteunen, maar als ik eerlijk ben weet ik niet eens precies hoe dat nou werkt, een verslaving. Ik ben eens op onderzoek uitgegaan.
