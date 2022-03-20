@@ -17,4 +17,4 @@ menu:
 
 comments: false
 ---
-in mijn vrije tijd heb ik allerlei websites gemaakt. in eerste instantie voor mijzelf, later ook voor anderen. Jarenlang was Wordpress daarvoor de standaard, sinds kort is de overstap naar Hugo een stuk logischer! 
+In mijn vrije tijd heb ik allerlei websites gemaakt. in eerste instantie voor mijzelf, later ook voor anderen. Jarenlang was Wordpress daarvoor de standaard, sinds kort is de overstap naar Hugo een stuk logischer! 
