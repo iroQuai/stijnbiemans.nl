@@ -12,3 +12,4 @@ In de afgelopen jaren heb ik werkervaring opgedaan op diverse plekken, zowel in 
 
 - Mijn C.V. is te vinden op [LinkedIn](https://www.linkedin.com/in/stijnbiemans/) 
 - Persoonlijke informatie vind je bij "[over mij](/over-mij/)"
+- In een eerste versie van mijn site (zo'n 10 jaar geleden) schreef ik ook een aantal blogposts over mijn [werkervaring](/categories/werkervaring/)
