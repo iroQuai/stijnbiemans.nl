@@ -48,7 +48,7 @@ collections:
         collapsed: true
         required: false
         field: {label: tags, name: tags, widget: string}
-      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
 
 
 
