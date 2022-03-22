@@ -1,5 +1,5 @@
 ---
-title: '"...maar het is wetenschappelijk bewezen!" - hoeveel waarde heeft dat?'
+title: wetenschappelijk bewezen - hoeveel waarde heeft dat?
 date: 2019-08-13T10:56:46.412Z
 draft: false
 categories:
