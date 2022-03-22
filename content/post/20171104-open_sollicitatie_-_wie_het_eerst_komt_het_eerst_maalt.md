@@ -1,7 +1,8 @@
 ---
-title: Open sollicitatie - wie het eerst komt, het eerst maalt
+title: Open Hiring - wie het eerst komt, het eerst maalt!
 date: 2017-11-20T22:19:58.549Z
 draft: false
+image: /images/logo-oh.png
 ---
 Iedereen verdiend een eerlijke kans. Toch werkt het in de praktijk meestal anders. Er zijn allerlei factoren die je kansen (bewust of onbewust) beinvloeden. Als je pech hebt trek je aan het kortste eind en wordt het èrg lastig om bijvoorbeeld een baan te vinden. 
 
