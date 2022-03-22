@@ -35,4 +35,4 @@ Het artikel legt nog wat uit over het belang van deze nieuwe kennis, en sluit ve
 
 Laten we hopen op vervolgonderzoek!
 
-p.s. [Het originele artikel is hier te vinden](http://www.nu.nl/wetenschap/3667245/honden-poepen-in-lijn-met-aardmagnetisch-veld.html)
+p.s. [Het originele artikel is hier te vinden](https://www.nu.nl/wetenschap/3667245/honden-poepen-in-lijn-met-aardmagnetisch-veld.html)
