@@ -12,5 +12,6 @@ gelukkig zijn er ondernemers die dat patroon durven te doorbreken. de Greyston B
 Ik kan initiatieven zoals dat zeer waarderen. Je afkomst, geschiedenis of eerdere keuzes in het leven doen amper ter zake. vaardigheid en inzet is wat telt! En daar heb je geen diploma, witte huidskleur of blanco strafblad voor nodig. En zo krijgt iedereen een kans!
 
 **meer weten?**
-- Tegenlicht behabdelde dit voorbeeld in deze aflevering: https://m.youtube.com/watch?t=7m24s&utm_content=buffer06592&utm_medium=social&utm_source=app.net&utm_campaign=buffer&v=MMany_8k5uc&feature=youtu.be
+- Tegenlicht behandelde dit voorbeeld in deze aflevering: https://m.youtube.com/watch?t=7m24s&utm_content=buffer06592&utm_medium=social&utm_source=app.net&utm_campaign=buffer&v=MMany_8k5uc&feature=youtu.be
 - Dit artikel biedt veel meer info: https://www.deondernemer.nl/personeel/arbeidsmarkt/greyston-bakery-aanneemt-zonder-gesprek-vragen-research~290355
+- en natuurlijk de site van Greyston Bakery zelf! https://www.greyston.org/
