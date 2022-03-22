@@ -21,7 +21,7 @@ In de afgelopen jaren heb ik werkervaring opgedaan op diverse plekken, zowel in 
 
 ## Interesses
 
-### verbinding
+### verbindingen leggen
 
 Ik houd ervan om mensen te verbinden. Niet alleen in mijn [werk](http://www.stijnbiemans.nl/cv/), maar ook in mijn eigen leefomgeving.  In de 7 jaar dat ik anti-kraak woonde, heb ik veel hieraan aandacht besteed  in mijn eigen wijk: [Buurland Utrecht](http://www.buurlandutrecht.nl/). Ik organiseerde hier, samen met de andere bewoners, veel evenementen (van buurtfeesten tot anti-inbraakborrels.). Inmiddels ben ik verhuisd naar een woning die iets meer geschikt was voor het leven met kinderen, en zoek ik naar nieuwe mogelijkheden in mijn huidige wijk.
 
