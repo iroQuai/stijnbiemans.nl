@@ -17,4 +17,4 @@ Een veelgehoorde kritiek op deze 5e versie is dat de lat wel erg laag ligt om ie
 
 Toen de DSM-5 in 2011 nog in de maak was, schreef de Volkskrant al een prachtig artikel over de risico's van deze DSM handboeken en de gevolgen die het huidige gebruik daarvan met zich meebrengt De volkskrant schreef er in 2011 al een prachtig stuk over. Een boeiend artikel over de massa's psychiatrische termen (ADHD, autisme, depressie) die mensen al snel opgeplakt krijgen. Al zo'n 5 jaar oud, maar nog steeds 'on the spot'.
 
-Ga naar het artikel: "[Wie dit leest is gek - Volkskrant](http://www.volkskrant.nl/archief/wie-dit-leest-is-gek~a2847880/)"
+Ga naar het artikel: "[Wie dit leest is gek - Volkskrant](https://12ft.io/proxy?q=https://www.volkskrant.nl/nieuws-achtergrond/wie-dit-leest-is-gek~b9cd8a4f)"
