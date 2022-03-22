@@ -1,4 +1,7 @@
 ---
+draft: false
+coverImage: Ontstoken-oog-bij-een-hond-wat-nu-e1491636695659.jpg
+lastmod: 2022-03-11T15:05:18.715Z
 title: Honden poepen in lijn met aardmagnetisch veld
 date: 2016-12-31
 categories:
@@ -9,8 +12,7 @@ tags:
   - honden
   - onderzoek
   - poep
-coverImage: Ontstoken-oog-bij-een-hond-wat-nu-e1491636695659.jpg
-lastmod: 2022-03-11T15:05:18.715Z
+image: /images/Ontstoken-oog-bij-een-hond-wat-nu-e1491636695659.jpg
 ---
 
 In de categorie "Opmerkelijk" op nu.nl stond weer eens een fascinerend bericht:
