@@ -1,4 +1,7 @@
 ---
+draft: false
+coverImage: wp-1482067578854.jpg
+lastmod: 2022-03-11T15:06:01.398Z
 title: "'Wie dit leest is gek' - over de DSM-5"
 date: 2016-12-18
 categories:
@@ -7,8 +10,7 @@ tags:
   - diagnostiek
   - dsm
   - ggz-agoog
-coverImage: wp-1482067578854.jpg
-lastmod: 2022-03-11T15:06:01.398Z
+image: /images/wp-1482067578854.jpg
 ---
 
 Vanaf 1 januari 2017 wordt de nieuwste, 5e editie van het 'Diagnostic Statistic Manual for Mental Disorders' in gebruik genomen, kortweg de DSM-5. Vanaf dat moment zullen alle zorgverleners in Nederland volgens de richtlijnen van dit handboek werken.
