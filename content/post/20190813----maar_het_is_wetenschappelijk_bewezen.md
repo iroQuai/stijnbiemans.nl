@@ -3,7 +3,7 @@ title: wetenschappelijk bewezen - hoeveel waarde heeft dat?
 date: 2019-08-13T10:56:46.412Z
 draft: false
 categories:
-  - overige
+  - Opmerkelijk
 image: /images/science.jpg
 ---
 Een discussie kan in de kiem gesmoord worden zodra iemand zegt: "..maar het is wetenschappelijk bewezen!!"" . De term "wetenschappelijk bewezen" lijkt een soort magische kracht te hebben waar de ander direct van onder de indruk is. 
