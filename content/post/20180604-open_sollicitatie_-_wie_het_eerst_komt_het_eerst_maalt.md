@@ -1,6 +1,6 @@
 ---
 title: Open sollicitatie - wie het eerst komt, het eerst maalt
-date: 2018-06-20T22:19:58.549Z
+date: 2017-11-20T22:19:58.549Z
 draft: false
 ---
 Open sollicitatie: wie t eerst komt, t eerst maalt - no questions asked. Bij Greyston Bakery gebeurt t, met succes! 
