@@ -4,6 +4,11 @@ date: 2020-12-22T11:04:35.362Z
 draft: false
 categories:
   - technologie
+tags:
+  - Home Assistant
+  - Zigbee
+  - Hue
+  - Smart Home
 image: /images/deconz.webp
 ---
 ## Inleiding
