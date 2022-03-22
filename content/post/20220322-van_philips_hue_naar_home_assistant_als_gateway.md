@@ -4,7 +4,7 @@ date: 2020-12-22T11:04:35.362Z
 draft: false
 categories:
   - technologie
-image: /images/banner.jpg
+image: /images/deconz.webp
 ---
 ## Inleiding
 
