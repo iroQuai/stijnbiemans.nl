@@ -7,6 +7,9 @@ categorie:
   - menselijk-gedrag
 categories:
   - Menselijk-gedrag
+tags:
+  - Startpositie
+  - Gelijke kansen
 ---
 Dit filmpje visualiseert op heldere wijze hoeveel invloed je verleden en afkomst hebben op je startpositie - in deze wedstrijd, maar ook in het leven zelf.
 
