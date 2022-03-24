@@ -2,9 +2,11 @@
 title: "Gelijke kansen voor iedereen? "
 date: 2019-06-02T19:49:43.670Z
 draft: false
-image: /images/equal-opportunity-to-be-a-student-athlete-ncaa-demographics-reflect-improvement-image.jpg
+image: /images/equal-opportunity.jpg
 categorie:
   - menselijk-gedrag
+categories:
+  - Menselijk-gedrag
 ---
 Dit filmpje visualiseert op heldere wijze hoeveel invloed je verleden en afkomst hebben op je startpositie - in deze wedstrijd, maar ook in het leven zelf.
 
