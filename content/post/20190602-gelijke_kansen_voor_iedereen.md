@@ -1,7 +1,7 @@
 ---
 title: "Gelijke kansen voor iedereen? "
 date: 2019-06-02T19:49:43.670Z
-draft: true
+draft: false
 image: /images/equal-opportunity-to-be-a-student-athlete-ncaa-demographics-reflect-improvement-image.jpg
 ---
 Dit filmpje visualiseert op heldere wijze hoeveel ibvloed je verleden en afkomst hebben op je startpositie - in deze wedstrijd, maar ook in het leven zelf.
