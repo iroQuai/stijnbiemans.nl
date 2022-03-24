@@ -4,14 +4,15 @@ title: Hoe ADHD veranderde van een omschrijving (voor snel afgeleide mensen) tot
 date: 2014-12-16T23:00:00.000Z
 draft: false
 categories:
-  - menselijk gedrag
   - psychologie
+  - menselijk gedrag
 tags:
   - DSM
   - ADHD
   - diagnose
   - reificatie
   - trudy deHue
+image: /images/adhd.jpg
 ---
 In het volkskrant-artikel [de aangeprate stoornis](https://12ft.io/proxy?q=https://www.volkskrant.nl/nieuws-achtergrond/de-aangeprate-aandoening~baabe31e) legt Trudy deHue op heldere wijze uit hoe ADHD (ooit bedoeld als korte samenvattende term voor een bepaalde set symptomen zoals drukheid en snel afgeleid zijb) plots verwordt tot "ding dat je kan hebben", alsof het een ziekte betreft.
 
