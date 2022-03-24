@@ -1,7 +1,7 @@
 ---
 title: 'Fantastische podcastserie: "hoe de GGZ verandert"'
 date: 2021-12-08T22:37:34.092Z
-draft: true
+draft: false
 categories:
   - Menselijk-gedrag
   - Psychologie
@@ -11,11 +11,10 @@ tags:
   - Trudy deHue
   - Yes We Can Clinics
   - enik recovery college
-  - podcast 
+  - podcast
   - carlijn welten
   - beschermjassen
   - systeemtherapie
-  - 
 image: /images/685000.jpg
 ---
 Eind 2020 kwam er een nieuwe podcastserie online, "hoe de GGZ verandert". In een ruk door beluisterd, wat een genot! Noodzakelijk luistermateriaal voor iedereen die in de GGZ werkt, wat mij betreft. 
