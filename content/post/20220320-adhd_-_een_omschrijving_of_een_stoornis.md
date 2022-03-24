@@ -1,7 +1,7 @@
 ---
 title: Hoe ADHD veranderde van een omschrijving (voor snel afgeleide mensen) tot
   "een ding dat je kunt hebben"
-date: 2014-12-16T23:00:00.000Z
+date: 2015-05-25T22:00:00.000Z
 draft: false
 categories:
   - psychologie
