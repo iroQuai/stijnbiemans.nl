@@ -1,8 +1,8 @@
 ---
-title: "Hoe ADHD veranderde van een omschrijving om snel afgeleide mensen mee te beschrijven tot een 'ding dat je kunt hebben'."
+title: Hoe ADHD veranderde van een omschrijving om snel afgeleide mensen mee te beschrijven tot een ding dat je kunt hebben
 date: 2022-03-20T22:27:50.979Z
 draft: false
-categories
+categories:
   - menselijk gedrag
   - psychologie
 tags:
