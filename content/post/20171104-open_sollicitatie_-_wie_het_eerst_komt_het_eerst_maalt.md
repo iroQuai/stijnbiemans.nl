@@ -8,7 +8,7 @@ tags:
   - Startpositie
 image: /images/8986_1b28.jpg
 ---
-Iedereen verdiend een eerlijke kans. Toch werkt het in de praktijk meestal anders. Er zijn allerlei factoren die je kansen (bewust of onbewust) beinvloeden. Als je pech hebt trek je aan het kortste eind en wordt het èrg lastig om bijvoorbeeld een baan te vinden. 
+Iedereen verdiend een eerlijke kans. Toch werkt het in de praktijk meestal anders. Er zijn [allerlei factoren](https://stijnbiemans.netlify.app/berichten/gelijke-kansen-voor-iedereen/) die je kansen (bewust of onbewust) beinvloeden. Als je pech hebt trek je aan het kortste eind en wordt het èrg lastig om bijvoorbeeld een baan te vinden. 
 
 **Open hiring**
 
