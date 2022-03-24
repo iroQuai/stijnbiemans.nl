@@ -1,13 +1,14 @@
 ---
-title: Hoe ADHD veranderde van een omschrijving om snel afgeleide mensen mee te beschrijven tot een ding dat je kunt hebben
-date: 2015-10-3T22:27:50.979Z
+title: Hoe ADHD veranderde van een omschrijving (voor snel afgeleide mensen) tot
+  "een ding dat je kunt hebben"
+date: 2014-12-16T23:00:00.000Z
 draft: false
 categories:
   - menselijk gedrag
   - psychologie
 tags:
   - DSM
-  - ADHD 
+  - ADHD
   - diagnose
   - reificatie
   - trudy deHue
