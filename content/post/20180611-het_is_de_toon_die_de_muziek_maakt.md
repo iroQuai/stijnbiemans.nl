@@ -5,7 +5,7 @@ draft: false
 categories:
   - menselijk-gedrag
 tags:
-  - Startpositie
+  - startpositie
   - wier
   - bejegening
 image: /images/dvovk0011.jpg
