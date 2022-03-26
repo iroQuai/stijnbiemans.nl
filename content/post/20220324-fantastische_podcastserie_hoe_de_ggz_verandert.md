@@ -15,6 +15,7 @@ tags:
   - carlijn welten
   - beschermjassen
   - systeemtherapie
+  - reificatie
 image: /images/685000.jpg
 ---
 Eind 2020 kwam er een nieuwe podcastserie online, "hoe de GGZ verandert". In een ruk door beluisterd, wat een genot! Noodzakelijk luistermateriaal voor iedereen die in de GGZ werkt, wat mij betreft. 
@@ -22,11 +23,11 @@ Eind 2020 kwam er een nieuwe podcastserie online, "hoe de GGZ verandert". In een
 ## links:
 - [artikel met meer inhoudelijke uitleg per aflevering op Sociaalweb.nl](https://sociaalweb.nl/nieuws/tiendelige-podcastserie-hoe-de-ggz-verandert-gelanceerd)
 - [link naar de podcastserie](https://www.buzzsprout.com/1347097)
-- 
+
 
 ## In een notendop de onderwerpen:
 - Aflevering 1: Jim van Os over De DSM voorbij
-- Aflevering 2: trudy dehue over het (verkeerd) gebruiken van diagnoses (als oorzaak ipv classificatie) 
+- Aflevering 2: Trudy deHue over het (verkeerd) gebruiken van diagnoses (als oorzaak ipv classificatie) 
 - Aflevering 3: Over de invloed van taal op de manier waarop in de ggz behandeld wordt. (Ook: reificatie)
 - Aflevering 4: Inzetten van peersupport (Met Martijn Kole van enik recovery college)
 - Aflevering 5: Gebruik maken van het systeem (Met Kitlyn Tjin a Djie) - over 'beschermjassen' en inzetten van multigenerationele systeemtherapie
