@@ -4,6 +4,9 @@ date: 2022-03-19T17:23:01.906Z
 draft: true
 image: /images/x1080.jpeg
 ---
+NB: artikel splitsen in ervaringsverhaal en kennis? plus link naae deze tekst: https://verkenjegeest.com/het-belangrijke-verschil-tussen-medelijden-en-medeleven/
+
+
 https://youtu.be/1Evwgu369Jw
 
 Veel van de jongeren waarmee ik werk zijn uitgevallen op school. Voor zulke jongeren zijn er regelmatig overleggen waarbij school, ouders, het buurtteam, leerplicht en wij (GGZ) overleggen over (en als het lukt ook met) die jongeren. Het doel: Die jongere weer 'op de rit' te krijgen richting een diploma. Laatst was ik bij zo'n overleg over de 17jarige Tjibbe.
