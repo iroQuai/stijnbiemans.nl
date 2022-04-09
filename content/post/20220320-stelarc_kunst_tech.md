@@ -13,7 +13,7 @@ tags:
   - uitvinder
   - performance art
   - visionair
-image: /images/stelarc-third-hand.jpg
+image: /images/stelarc-third-hand_header.jpg
 ---
 Ooit tijdens een keuzevak tijdens mijn studie CMV werd ik geintroduceerd aan Stelarc. Een markant figuur die ik moeilijk in één term kan omschrijven. Het is een kunstenaar, uitvinder, proefkonijn, visionair, techneut, performance artiest, cyborg, filosoof, sadomasochist... het zit er allemaal in en ik vind het fascinerend!
 
