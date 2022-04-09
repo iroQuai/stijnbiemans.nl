@@ -6,10 +6,11 @@ categories:
   - middelen-verslaving
   - technologie
 tags:
+  - Cyborg
   - alcohol
   - bier
-  - dansen
   - technologie
+  - dansen
 image: /images/maxresdefault1-e1491635922473.jpg
 ---
 
