@@ -10,7 +10,8 @@ tags:
   - utrecht
   - vrolijkheid
   - workshops
-lastmod: 2022-03-11T14:57:58.845Z
+draft: true
+lastmod: 2022-04-09T19:08:23.172Z
 ---
 
 \[caption id="" align="alignright" width="124" caption="Een ontmoeting tussen KJ Sollie en Farhiya "\]![KJ Sollie met Farhiya](images/vrolijkheid_0181.kopie.jpg)\[/caption\]

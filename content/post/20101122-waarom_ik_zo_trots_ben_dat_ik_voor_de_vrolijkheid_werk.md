@@ -13,7 +13,8 @@ tags:
   - vrijwilligers
   - vrolijkheid
   - workshops
-lastmod: 2022-03-11T14:57:58.852Z
+lastmod: 2022-04-09T19:07:44.198Z
+draft: true
 ---
 
 Hieronder een reportage over een project dat waar we mee bezig zijn in Asielzoekerscentrum Utrecht: Het schilderen van de (kale, grauwe, inspiratieloze) muren in het centrum. Alles gemaakt en ontworpen samen met de kinderen en hun ouders! Een filmpje als dit maakt me zo trots dat ik bij de Vrolijkheid werk!

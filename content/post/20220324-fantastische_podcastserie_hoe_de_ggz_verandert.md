@@ -1,6 +1,6 @@
 ---
 title: 'Fantastische podcastserie: "hoe de GGZ verandert"'
-date: 2021-12-08T22:37:34.092Z
+date: 2021-12-08
 draft: false
 categories:
   - Menselijk-gedrag
@@ -17,6 +17,7 @@ tags:
   - systeemtherapie
   - reificatie
 image: /images/685000.jpg
+lastmod: 2022-04-09T19:09:40.774Z
 ---
 Eind 2020 kwam er een nieuwe podcastserie online, "hoe de GGZ verandert". In een ruk door beluisterd, wat een genot! Noodzakelijk luistermateriaal voor iedereen die in de GGZ werkt, wat mij betreft. 
 

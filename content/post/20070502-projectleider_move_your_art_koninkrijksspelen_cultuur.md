@@ -12,7 +12,8 @@ tags:
   - productie
   - talent
   - workshops
-lastmod: 2022-03-11T14:57:58.817Z
+lastmod: 2022-04-09T19:09:11.036Z
+draft: true
 ---
 
 ### Periode: Mei 2007 - augustus 2007 (4 maanden)

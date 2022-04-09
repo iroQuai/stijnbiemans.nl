@@ -3,6 +3,7 @@ title: Empathy vs sympathy
 date: 2022-03-19T17:23:01.906Z
 draft: true
 image: /images/x1080.jpeg
+lastmod: 2022-04-09T19:08:37.513Z
 ---
 NB: artikel splitsen in ervaringsverhaal en kennis? plus link naae deze tekst: https://verkenjegeest.com/het-belangrijke-verschil-tussen-medelijden-en-medeleven/
 
@@ -15,7 +16,7 @@ Tjibbe is een op het eerste oog vrolijke en sociale jongen van 17 jaar. Op jong
 
 Zo'n twee jaar geleden is ons ACT-team betrokken geraakt: hij viel uit op school, werd steeds brutaler, maakte ruzie, liep regelmatig weg van huis en werd steeds somberder. Op het dieptepunt was hij met recht depressief te noemen. In die periode heeft hij een aantal keer bij het spoor gestaan met gedachten aan de dood.
 
-Inmiddels gaat het gelukkig een stuk beter met hem. Medicatie heeft zijn stemming gestabiliseerd. Via systeemtherapie is de relatie met zijn moeder significant verbeterd en met onze ondersteuning heeft hij een stage gevonden die erg goed bij hem past.  Inmiddels is Tjibbe gemotiveerd om een beroeps-opleiding te gaan volgen. Ondanks het gebrek aan een middelbare-schooldiploma heeft de directeur van die opleiding al aangegeven een uitzondering te willen maken omdat hij  potentie zag bij Tjibbe.
+Inmiddels gaat het gelukkig een stuk beter met hem. Medicatie heeft zijn stemming gestabiliseerd. Via systeemtherapie is de relatie met zijn moeder significant verbeterd en met onze ondersteuning heeft hij een stage gevonden die erg goed bij hem past. Inmiddels is Tjibbe gemotiveerd om een beroeps-opleiding te gaan volgen. Ondanks het gebrek aan een middelbare-schooldiploma heeft de directeur van die opleiding al aangegeven een uitzondering te willen maken omdat hij  potentie zag bij Tjibbe.
 
 Gezien alle positieve ontwikkelingen van de laatste tijd, verwachtte ik dat het groot overleg over de voortgang van Tjibbe weinig om handen zou hebben.  Niets bleek echter minder waar!
 

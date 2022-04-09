@@ -12,7 +12,8 @@ tags:
   - minor
   - studenten
   - utrecht
-lastmod: 2022-03-11T15:04:28.880Z
+draft: true
+lastmod: 2022-04-09T19:08:07.222Z
 ---
 
 In de periode september '09 / januari '10 was ik coach bij minor "de 3e Verdieping" van de Hogeschool Utrecht. Tijdens dit jaar heb ik een groep studenten gecoached bij het uitvoeren van het project "[Cultuur in Oost](http://www.cultuurinoost.nl/)".

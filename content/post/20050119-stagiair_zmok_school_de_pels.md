@@ -10,7 +10,8 @@ tags:
   - stage
   - utrecht
   - zmok
-lastmod: 2022-03-11T14:57:58.804Z
+lastmod: 2022-04-09T19:09:27.812Z
+draft: true
 ---
 
 Als tweedejaars stage heb ik een half jaar (drie dagen per week) op ZMOK school de Pels gewerkt. Tijdens deze stage heb ik onder andere een schoolkrant opgezet, activiteiten verzonnen en uitgevoerd op het schoolkamp en meegedraaid met in alle lessen en klassen.

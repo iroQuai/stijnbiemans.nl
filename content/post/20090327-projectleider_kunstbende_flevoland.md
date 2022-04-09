@@ -8,7 +8,8 @@ tags:
   - flevoland
   - kunstbende
   - lelystad
-lastmod: 2022-03-11T14:57:58.829Z
+lastmod: 2022-04-09T19:08:54.660Z
+draft: true
 ---
 
 ### periode: Oktober 2008 – Maart 2009 (5 maanden)

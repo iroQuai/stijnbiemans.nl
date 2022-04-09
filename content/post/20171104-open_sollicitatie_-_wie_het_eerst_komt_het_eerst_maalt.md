@@ -1,12 +1,13 @@
 ---
 title: Open Hiring - wie het eerst komt, het eerst maalt!
-date: 2017-11-20T22:19:58.549Z
+date: 2017-11-20
 draft: false
 tags:
   - Gelijke kansen
   - Open hiring
   - Startpositie
 image: /images/8986_1b28.jpg
+lastmod: 2022-04-09T19:09:55.181Z
 ---
 Iedereen verdiend een eerlijke kans. Toch werkt het in de praktijk meestal anders. Er zijn [allerlei factoren](https://stijnbiemans.netlify.app/berichten/gelijke-kansen-voor-iedereen/) die je kansen (bewust of onbewust) beinvloeden. Als je pech hebt trek je aan het kortste eind en wordt het èrg lastig om bijvoorbeeld een baan te vinden. 
 

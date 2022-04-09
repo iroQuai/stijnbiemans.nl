@@ -8,7 +8,8 @@ tags:
   - kunstbende
   - productie
   - utrecht
-lastmod: 2022-03-11T14:57:58.819Z
+lastmod: 2022-04-09T19:09:05.854Z
+draft: true
 ---
 
 ### periode: januari 2008  – juli 2008 (7 maanden)

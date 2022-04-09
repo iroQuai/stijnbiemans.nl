@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-date: "2017-02-12"
+title: Contact
+lastmod: 2022-04-09T19:06:03.103Z
 ---
 
 Als je in contact wil komen, kan dat het best per mail: [info@stijnbiemans.nl](mailto:info@stijnbiemans.nl). Je mag ook onderstaand formulier invullen - dan ontvang ik je bericht ook gewoon!

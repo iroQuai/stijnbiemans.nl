@@ -7,7 +7,8 @@ tags:
   - aruba
   - koninkrijksspelen
   - kunstbende
-lastmod: 2022-03-11T14:57:58.836Z
+draft: true
+lastmod: 2022-04-09T19:08:31.288Z
 ---
 
 ![](images/imgholder.png)Zaterdag 27 juni was het zo ver, de landelijke finale van [Kunstbende 2009](http://www.kunstbende.nl)! De Amsterdamse Melkweg zat propvol: in maarliefst 5 zalen (de oude zaal, the Max, de filmzaal, theaterzaal en de gloednieuwe rabo-zaal) waren de 8 categorieën (dans, muziek, taal, theater&performance, fashion, dj, expo en film&animatie) te bezichtigen.
