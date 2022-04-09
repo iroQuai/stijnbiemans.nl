@@ -9,8 +9,8 @@ tags:
   - martin-appelo
   - narcisme
   - weerstand
-  - weerstand
-lastmod: 2022-03-11T14:54:04.419Z
+lastmod: 2022-04-09T20:49:16.382Z
+image: /images/appelo-narcist-tedx.jpg
 ---
 
 Als aanvulling op mijn werk als begeleider bij Wier ([Altrecht Aventurijn](https://www.altrecht.nl/zorgeenheid/aventurijn-wier/)) volg ik sinds september '16 de opleiding tot [GGZ Agoog bij de RINO groep.](http://www.rinogroep.nl/GA16A) Op advies van collega's probeer ik zo nu en dan wat van de opgedane kennis te delen. Hieronder een eerste poging! Reacties, feedback, vragen en andere opmerking zijn zeer welkom...
