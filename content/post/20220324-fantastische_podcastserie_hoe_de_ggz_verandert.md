@@ -4,7 +4,6 @@ date: 2021-12-08
 draft: false
 categories:
   - Menselijk-gedrag
-  - Psychologie
 tags:
   - Jim van Os
   - DSM
