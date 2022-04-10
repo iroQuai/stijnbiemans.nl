@@ -4,8 +4,7 @@ title: Hoe ADHD veranderde van een omschrijving (voor snel afgeleide mensen) tot
 date: 2015-05-25T22:00:00.000Z
 draft: false
 categories:
-  - psychologie
-  - menselijk gedrag
+  - menselijk-gedrag
 tags:
   - DSM
   - ADHD
