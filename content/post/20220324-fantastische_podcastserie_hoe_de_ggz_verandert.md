@@ -2,6 +2,7 @@
 title: 'Fantastische podcastserie: "hoe de GGZ verandert"'
 date: 2021-12-08
 draft: false
+toc: false
 categories:
   - Menselijk-gedrag
 tags:
