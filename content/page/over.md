@@ -9,15 +9,12 @@ menu:
 draft: false
 featured image: /images/avatar.png
 ---
-> LET OP: deze pagina is al tijden niet geupdate
-
-Ha! Ik ben Stijn en woon in Amersfoort met mijn vriendin en drie kinderen. Ik werk al jaren in de GGZ. Eerst als sociotherapeut in diverse klinieken, de laatste jaren als ambulant behandelaar volgens het model ["Assertive Community Treatment"](https://www.fivoor.nl/locaties/utrecht-jeugdteams/). Het meest heb ik met pubers gewerkt; jongeren in de leeftijd 12-24 die in een snel veranderende levensfase. Voordat ik in de ggz werkte, werkte ik ook al veel met jongeren in de sociaal-culturele sector (onder andere bij _Kunstbende_ en _de Vrolijkheid_). 
+Ha! Ik ben Stijn en woon in Amersfoort met mijn vriendin en drie kinderen. Ik werk al jaren in de GGZ. Eerst als sociotherapeut in diverse klinieken, de laatste jaren als ambulant behandelaar volgens het model ["Assertive Community Treatment"](https://www.fivoor.nl/locaties/utrecht-jeugdteams/). Ik haal vooral veel plezier uit het werken met pubers; jongeren in de leeftijd 12-24 die in een snel veranderende levensfase. Voordat ik in de ggz werkte, werkte ik ook al veel met jongeren in de sociaal-culturele sector.
 
 In '09 heb ik mijn HBO-diploma [Culturele en Maatschappelijke Vorming](https://www.carrieretijger.nl/opleiding/sociaal/culturele-en-maatschappelijke-vorming) gehaald (dat valt nu onder "HBO Social Work") In '17 volgde een post-HBO opleiding tot [GGZ Agoog](https://www.rinogroep.nl/opleiding/4438) en in '22 heb ik een post-hbo opleiding tot [Systeem Therapeutisch Werker](https://www.nvrg.nl/systeemtherapeutisch-werker) gevolgd. Op dit moment ben ik bezig met de bijbehorende supervisietrajecten.
 
 ## Werkzaamheden
-Mijn eerste werkende jaren na afronden van mijn studie waren dus in de sociaal-culturele sector; via kunst en creativiteit jongeren motiveren meer uit zichzelf te halen. Soms op een professioneel podium (_zoals bij Kunstbende_), op andere momenten in diverse asielzoekercentra (als projectcoördinator bij _Stichting de Vrolijkheid_). Later heb ik de overstap gemaakt naar de GGZ. In al deze ervaringen spelen groepsdynamische, sociaal maatschappelijke, organisatorische en creatieve elementen een rol. 
-- Voor meer info is mijn C.V. te vinden op [LinkedIn](https://www.linkedin.com/in/stijnbiemans/) 
+Mijn eerste werkende jaren na afronden van mijn studie waren dus in de sociaal-culturele sector; via kunst en creativiteit jongeren motiveren meer uit zichzelf te halen. Soms op een professioneel podium (_zoals bij Kunstbende_), op andere momenten in diverse asielzoekercentra (als projectcoördinator bij _Stichting de Vrolijkheid_). Later heb ik de overstap gemaakt naar de GGZ. In al deze ervaringen spelen groepsdynamische, sociaal maatschappelijke, organisatorische en creatieve elementen een rol. (meer weten over mijn werkervaring? Kijk dan op [LinkedIn](https://www.linkedin.com/in/stijnbiemans/)!) 
 
 ## Interesses
 
