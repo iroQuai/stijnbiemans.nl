@@ -217,7 +217,7 @@ menu:
 related:
     includeNewer: true
     threshold: 60
-    toLower: false
+    toLower: true
     indices:
         - name: tags
           weight: 100
