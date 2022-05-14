@@ -1,7 +1,7 @@
 ---
 title: "de Yucel methode: Eenvoudig de complexe balans tussen draaglast en
   draagkracht in kaart brengen"
-date: 2022-04-12T13:16:20.437Z
+date: 2022-05-01-12T13:16:20.437Z
 draft: false
 categories:
   - menselijk-gedrag
@@ -12,6 +12,7 @@ tags:
   - ggz agoog
   - herstel
 image: /images/yucelmethode-2.jpg
+lastmod: 2022-05-13T12:14:01.661Z
 ---
 De jongeren waarmee ik werk ervaren in de regel een veelvoud aan problemen en klachten. Praten over die klachten is daarom soms lastig, ook omdat je de onderlinge verhouding en ernst soms niet goed kan inschatten. De YUCEL-methode helpt me daarbij. Niet alleen is het gemakkelijke manier om klachten te inventariseren, het biedt ook houvast om de onderlinge 'zwaarte' van de klachten aan te duiden. Een ander groot voordeel is dat het de klachten externaliseert; de jongere ís niet meer z'n depressie, die depressie wordt gesymboliseerd door een houten blokje. Je kan het vasthouden, negeren, verplaatsen of weggooien, zonder dat dat direct invloed heeft op de jongere zelf.
 Een ander enorm voordeel van werken met deze methode is dat het niet alleen focust op de *klachten*, maar ook de *krachten* een essentiële positie geeft. De krachten maken dat je de lasten kunt dragen, en ook die balans wordt prachtig visueel gemaakt met de yucel methode. 
