@@ -4,6 +4,8 @@ date: 2022-05-12T19:35:12.903Z
 draft: false
 image: images/stadsvogels-spotten.jpg
 lastmod: 2022-05-21T23:08:52.752Z
+categories:
+  - technologie
 tags:
   - raspberry-pi
   - machine-learning
