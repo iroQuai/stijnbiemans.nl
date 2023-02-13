@@ -2,7 +2,7 @@
 title: Automatisch vogels herkennen via BirdNET-Pi
 date: 2022-05-12T19:35:12.903Z
 draft: false
-image: images/stadsvogels-spotten.jpg
+image: /images/birdnetpi-dall-e.png
 lastmod: 2022-05-21T23:08:52.752Z
 categories:
   - technologie
