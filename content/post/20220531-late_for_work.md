@@ -1,6 +1,15 @@
 ---
-title: Late for work
+title: "Te laat opgestaan.... "
 date: 2022-05-31T07:30:14.777Z
 draft: true
+description: "soms heb je van die dagen! "
+tags:
+  - verslapen
+  - wekker
+  - fuck
+categories:
+  - mens-maatschappij
 ---
-https://youtu.be/kfchvCyHmsc
+Soms heb je van die dagen waarop je altijd achter de feiten aanloopt. Op die dagen moet ik altijd aan dit prachtige filmpje denken: Late For Work van 5 second films:
+
+{{< youtube kfchvCyHmsc >}}
