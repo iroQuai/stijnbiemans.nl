@@ -31,25 +31,11 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum van publicatie", name: "date", widget: "datetime"}
-      - { label: "Draft", name: "draft", widget: "boolean", default: true }   
-      - label: 'categories'
-        name: 'categories'
-        widget: "list"
-        allow_add: true
-        add_to_top: true
-        collapsed: true
-        field: {label: categories, name: categories, widget: string}   
+      - {label: "Draft", name: "draft", widget: "boolean", default: true }   
+      - {label: "Categorieën", name: "categories", widget: "select",  multiple: true, options: ["ggz", "mens-maatschappij", "technologie", "kunst-creativiteit", "middelen-verslaving", "opmerkelijk", "overige"]}
+      - {label: 'Tags', name: 'tags', widget: 'list' }
       - {label: "Inhoud", name: "body", widget: "markdown"}
-      - label: 'tags'
-        name: 'tags'
-        widget: "list"
-        allow_add: true
-        add_to_top: true
-        collapsed: true
-        required: false
-        field: {label: tags, name: tags, widget: string}
       - {label: "Featured Image", name: "image", widget: "image", required: false}
-
 
 
   - name: 'page'
