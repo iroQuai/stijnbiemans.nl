@@ -32,7 +32,6 @@ De meeste materialen had ik al, de microfoon heb ik speciaal voor dit project be
 - **USB-geluidskaart met line-in**  
   (optioneel. Sommige microfoons werken zonder, ik had 'm wel nodig). 
 {{< /details >}}
-
 {{< details title="Het installatieproces *klik hier*" open=false >}}
 ### het installatieproces
 Als je alle spullen hebt (plus wat ervaring met dit soort projecten) is het niet al te moeilijk de boel draaiend te krijgen; de [installation guide](https://github.com/mcguirepr89/BirdNET-Pi/wiki/Installation-Guide) is grondig en helder uitgeschreven. De software werd snel geinstalleerd en binnen no-time zat ik in de (vrij lelijk ontworpen) groene webomgeving. Enige probleem: de microfoon werkte niet! Na een tijdje bleek ik een USB geluidskaart nodig te hebben met line-in. Gelukkig had ik [deze USB geluidskaart](https://nl.aliexpress.com/item/1005003240530919.html) nog liggen voor een [ander project](https://github.com/iroQuai/RFID-kinderjukebox). Al met al was alles in een uurtje 'up and running'!  
