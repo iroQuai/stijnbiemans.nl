@@ -1,11 +1,12 @@
 ---
-title: Rebranding Chaos - Hang Youth bij VPRO Tegenlicht
+title: Rebranding Chaos
 date: 2022-04-23T20:12:31.498Z
 draft: false
 categories:
   - mens-maatschappij
 image: /images/abel_tegenlicht.jpeg
 lastmod: 2022-05-21T22:20:52.064Z
+description: Hang Youth bij VPRO Tegenlicht
 ---
 Al rond m'n vijftiende werd ik gegrepen door punk. Eerst door de rauwe muziek, snel daarna door de maatschappijkritische teksten, en niet veel later ook door de mentaliteit en levenshouding die binnen de subcultuur heerst. En al ben ik inmiddels ruim twintig jaar ouder en leef ik op veel fronten burgerlijker dan ik destijds had kunnen bedenken - de zelfstandig denkende, autonome houding is gebleven. 
 
