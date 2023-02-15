@@ -2,7 +2,7 @@
 title: Mijn ideale media-center setup
 date: 2016-06-16
 categories:
-  - kunst-creativiteit
+ - technologie
 tags:
   - kodi
   - media-center

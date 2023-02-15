@@ -5,11 +5,11 @@ draft: false
 categories:
   - kunst-creativiteit
   - middelen-verslaving
+  - technologie
 tags:
   - Cyborg
   - alcohol
   - bier
-  - technologie
   - dansen
 image: /images/maxresdefault1-e1491635922473.jpg
 ---

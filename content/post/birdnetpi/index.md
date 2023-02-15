@@ -5,7 +5,7 @@ draft: false
 image: /images/birdnetpi-dall-e.png
 lastmod: 2023-02-15T19:32:14.242Z
 categories:
-  - kunst-creativiteit
+  - technologie
 tags:
   - raspberry-pi
   - machine-learning

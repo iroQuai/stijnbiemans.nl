@@ -4,6 +4,6 @@ description: "Kunstzinnige uitspattingen, creatieve ideeën, wilde plannen en vr
 slug: "kunst-creativiteit"
 image: "featured.jpg"
 style:
-    background: "#2a9d8f"
+    background: "#2c9c91"
     color: "#fff"
 ---

@@ -2,7 +2,7 @@
 title: "Hoe bizar: Een inslikbare robot!"
 date: 2016-05-20
 categories:
-  - kunst-creativiteit
+ - technologie
 lastmod: 2022-03-11T14:53:04.309Z
 ---
 

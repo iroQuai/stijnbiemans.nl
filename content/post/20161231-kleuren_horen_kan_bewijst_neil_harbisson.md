@@ -6,6 +6,7 @@ title: Kleuren horen kan, bewijst Neil Harbisson
 date: 2016-12-31
 categories:
   - kunst-creativiteit
+  - technologie
 tags:
   - cyborg
   - kleurenblind

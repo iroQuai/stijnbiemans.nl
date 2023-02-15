@@ -3,6 +3,7 @@ title: Innovatief! Urine als brandstof!
 date: 2016-01-06
 categories:
   - kunst-creativiteit
+  - technologie
 lastmod: 2022-03-11T14:53:07.907Z
 draft: false
 image: /images/8161674482_6afa443513_c.jpg
