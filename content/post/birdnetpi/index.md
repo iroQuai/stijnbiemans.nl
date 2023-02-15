@@ -19,7 +19,10 @@ Laatst ontdekte ik [BirdNetPi](https://birdnetpi.com), een programma dat realtim
 
 Op een aantal plekken in de wereld zijn de verzamelde gegevens openbaar. Er staat er bijvoorbeeld één in Nijmegen! Benieuwd hoe het programma er uit ziet en/of welke vogels er rond die microfoon fluiten? Check dan [https://nijmegen.birdnetpi.com](https://nijmegen.birdnetpi.com)
 
+
 ## Zelf testen of dit werkt
+Natuurlijk wilde ik dit zelf ook testen :) 
+{{< details title="Benieuwd naar het proces? *klik hier*" open=false >}}
 ### Benodigdheden verzamelen
 De meeste materialen had ik al, de microfoon heb ik speciaal voor dit project besteld.  
 - **Een Raspberri Pi**  
@@ -38,7 +41,7 @@ Als je alle spullen hebt (plus wat ervaring met dit soort projecten) is het niet
 In eerste instantie had ik ideeën over een waterdichte enclosure om de raspberry pi buiten te laten staan. Evt met een batterij en zonnecel om zo niet afhankelijk te zijn van het stroomnet. Ik weet echter dat dat véél meer geld, werk en gedoe kost dan ik in deze testfase logisch vindt, dus ik het mezelf makkelijk gemaakt: De raspberry pi veilig binnen, de microfoon met de lange draad uit het raam gehangen, de tuin in!  (Het bestaat overigens wel, zo'n [zelf-sufficient versie op zonne-energie](https://github.com/mcguirepr89/BirdNET-Pi/discussions/69#discussioncomment-2125002)!)
 
 ![microfoon in tuin #2](images/mic-tuin-01.jpg) ![microfoon in tuin #2](images/mic-tuin-02.jpg)
-
+{{< /details >}}
 
 ### Testresultaten uit mijn eigen tuin
 Op het moment dat alles 'up and running' was, was het al na 23:00u en was er geen vogel meer te bekennen. Een eerste test met een audio-clip van een duif werkte echter perfect èn snel! Dat stemde hoopvol. De volgende ochtend bleken er al behoorlijk wat vogels geregisteerd te zijn. Na een dag werken was de overzichtskaart prachtig gevuld!  
