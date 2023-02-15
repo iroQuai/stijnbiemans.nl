@@ -30,6 +30,7 @@ collections:
       preview: false
     fields:
       - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Korte omschrijving", name: "description", widget: "string"}
       - {label: "Datum van publicatie", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true }   
       - {label: "Categorieën", name: "categories", widget: "select",  multiple: true, options: ["ggz", "mens-maatschappij", "technologie", "kunst-creativiteit", "middelen-verslaving", "opmerkelijk", "overige"]}
