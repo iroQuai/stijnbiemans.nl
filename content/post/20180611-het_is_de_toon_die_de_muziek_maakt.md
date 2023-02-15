@@ -3,8 +3,8 @@ title: "Het is de toon die de muziek maakt - ervaringen uit de forensische zorg.
 date: 2018-06-11T21:12:49.895Z
 draft: false
 categories:
-  - menselijk-gedrag
   - ggz
+  - mens-maatschappij
 tags:
   - startpositie
   - wier

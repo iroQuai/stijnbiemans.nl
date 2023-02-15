@@ -2,8 +2,8 @@
 title: Weerstand en Narcisme
 date: 2017-01-15
 categories:
-  - menselijk-gedrag
   - ggz
+  - mens-maatschappij
 tags:
   - diagnostiek
   - dsm

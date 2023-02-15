@@ -2,8 +2,8 @@
 title: Werken met (SG)LVG
 date: 2017-09-24
 categories:
-  - menselijk-gedrag
   - ggz
+  - mens-maatschappij
 tags:
   - Licht Verstandelijke Beperking (LVB)
   - whitepaper

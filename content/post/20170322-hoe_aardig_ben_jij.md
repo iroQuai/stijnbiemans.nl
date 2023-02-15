@@ -2,7 +2,7 @@
 title: Hoe aardig ben jij?
 date: 2017-03-22
 categories:
-  - menselijk-gedrag
+  - mens-maatschappij
 tags:
   - aardig
   - culturele-verschillen

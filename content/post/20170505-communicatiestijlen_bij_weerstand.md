@@ -4,8 +4,8 @@ lastmod: 2022-03-11T15:05:41.809Z
 title: Communicatiestijlen bij weerstand
 date: 2017-05-05
 categories:
-  - menselijk-gedrag
   - ggz
+  - mens-maatschappij
 tags:
   - communicatie
   - weerstand

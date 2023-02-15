@@ -3,7 +3,7 @@ title: Rebranding Chaos - Hang Youth bij VPRO Tegenlicht
 date: 2022-04-23T20:12:31.498Z
 draft: false
 categories:
-  - menselijk-gedrag
+  - mens-maatschappij
 image: /images/abel_tegenlicht.jpeg
 lastmod: 2022-05-21T22:20:52.064Z
 ---

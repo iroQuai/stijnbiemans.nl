@@ -2,7 +2,7 @@
 title: Geen probleemkind maar uitdaging
 date: 2017-06-08
 categories:
-  - menselijk-gedrag
+  - mens-maatschappij
 lastmod: 2022-03-11T15:05:44.043Z
 image: /images/ik_ben_geen_probleemkind_ik_ben_een_uitdaging-e1498560654437.jpg
 ---

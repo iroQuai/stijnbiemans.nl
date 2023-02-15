@@ -2,8 +2,8 @@
 title: Waarom communicatie lastiger is voor mensen met Autisme Spectrum Stoornis (ASS)
 date: 2017-03-25
 categories:
-  - menselijk-gedrag
   - ggz
+  - mens-maatschappij
 tags:
   - autisme
   - communicatie

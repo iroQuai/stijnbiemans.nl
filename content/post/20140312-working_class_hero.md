@@ -2,7 +2,7 @@
 title: working class hero, een verloren vorm va...
 date: 2014-03-12
 categories:
-  - menselijk-gedrag
+  - mens-maatschappij
 lastmod: 2022-03-11T14:53:20.096Z
 ---
 

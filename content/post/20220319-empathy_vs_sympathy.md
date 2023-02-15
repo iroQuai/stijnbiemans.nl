@@ -3,8 +3,8 @@ title: Het verschil tussen medelijden en medeleven
 date: 2021-02-03T17:23:01.906Z
 draft: false
 categories:
-  - menselijk-gedrag
   - ggz
+  - mens-maatschappij
 image: /images/x1080.jpeg
 lastmod: 2022-04-09T19:53:15.160Z
 tags:

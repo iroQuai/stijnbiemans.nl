@@ -3,8 +3,8 @@ title: Geen vertrouwen? "Wat een kuthouding!"
 date: 2018-02-13
 draft: false
 categories:
-  - menselijk-gedrag
   - ggz
+  - mens-maatschappij
 tags:
   - begeleiding
   - communicatie

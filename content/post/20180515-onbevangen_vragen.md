@@ -2,7 +2,7 @@
 title: Onbevangen vragen
 date: 2018-05-15
 categories:
-  - menselijk-gedrag
+  - mens-maatschappij
 tags:
   - chocolade
   - jongeren

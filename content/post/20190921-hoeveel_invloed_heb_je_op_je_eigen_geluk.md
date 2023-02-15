@@ -2,7 +2,7 @@
 title: Hoeveel invloed heb je op je eigen geluk?
 date: 2019-09-21
 categories:
-  - menselijk-gedrag
+  - mens-maatschappij
 lastmod: 2022-03-18T21:47:47.568Z
 tags:
   - Geluk
