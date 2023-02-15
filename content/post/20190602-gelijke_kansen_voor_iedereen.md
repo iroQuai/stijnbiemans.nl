@@ -6,7 +6,7 @@ image: /images/equal-opportunity.jpg
 categorie:
   - menselijk-gedrag
 categories:
-  - Menselijk-gedrag
+  - menselijk-gedrag
 tags:
   - Startpositie
   - Gelijke kansen

@@ -3,6 +3,11 @@ title: Werken met (SG)LVG
 date: 2017-09-24
 categories:
   - menselijk-gedrag
+  - ggz
+tags:
+  - Licht Verstandelijke Beperking (LVB)
+  - whitepaper
+  - Wier
 lastmod: 2022-03-11T15:05:45.653Z
 draft: false
 image: /images/cover_whitepaper_mee_lvb.jpg

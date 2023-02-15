@@ -4,7 +4,7 @@ date: 2021-12-08
 draft: false
 toc: false
 categories:
-  - Menselijk-gedrag
+  - ggz
 tags:
   - Jim van Os
   - DSM

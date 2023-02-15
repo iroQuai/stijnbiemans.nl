@@ -3,7 +3,7 @@ title: "Pi-Hole: Nooit meer online advertenties zien!"
 date: 2017-02-15
 draft: false
 categories:
-  - technologie
+  - kunst-creativiteit
 tags:
   - advertenties
   - pi-hole

@@ -3,7 +3,8 @@ title: Het linke pad...  (Per ongeluk poëzie)
 date: 2016-09-27
 draft: false
 categories:
-  - menselijk-gedrag
+  - ggz
+  - kunst-creativiteit
 lastmod: 2022-03-11T15:05:10.772Z
 tags:
   - Levenslessen

@@ -2,7 +2,7 @@
 title: What a Shaman Sees in A Mental Hospital ...
 date: 2014-12-17
 categories:
-  - overige
+  - ggz
 lastmod: 2022-03-11T14:53:12.782Z
 ---
 

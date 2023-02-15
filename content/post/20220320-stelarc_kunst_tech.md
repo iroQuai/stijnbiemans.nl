@@ -4,8 +4,7 @@ lastmod: 2022-04-09T19:46:03.603Z
 title: Stelarc fascineert me mateloos
 date: 2021-03-20
 categories:
-  - Kunst-creativiteit
-  - Technologie
+  - kunst-creativiteit
 tags:
   - cyborg
   - stelarc

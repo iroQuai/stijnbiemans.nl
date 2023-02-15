@@ -3,8 +3,8 @@ title: Nooit meer bier morsen tijdens het dansen!
 date: 2016-12-31
 draft: false
 categories:
+  - kunst-creativiteit
   - middelen-verslaving
-  - technologie
 tags:
   - Cyborg
   - alcohol

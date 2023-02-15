@@ -5,7 +5,7 @@ lastmod: 2022-03-11T15:06:01.398Z
 title: "'Wie dit leest is gek' - over de DSM-5"
 date: 2016-12-18
 categories:
-  - menselijk-gedrag
+  - ggz
 tags:
   - diagnostiek
   - dsm

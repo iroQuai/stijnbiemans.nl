@@ -5,9 +5,9 @@ title: Communicatiestijlen bij weerstand
 date: 2017-05-05
 categories:
   - menselijk-gedrag
+  - ggz
 tags:
   - communicatie
-  - menselijk-gedrag
   - weerstand
   - ggz-agoog
 image: /images/weerstand2.jpg

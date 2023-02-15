@@ -3,7 +3,7 @@ title: van Philips Hue naar Home Assistant als Gateway
 date: 2020-12-22T11:04:35.362Z
 draft: false
 categories:
-  - technologie
+  - kunst-creativiteit
 tags:
   - Home Assistant
   - Zigbee

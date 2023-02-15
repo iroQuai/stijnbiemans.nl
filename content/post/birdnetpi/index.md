@@ -3,9 +3,9 @@ title: Automatisch vogels herkennen via BirdNET-Pi
 date: 2022-05-12T19:35:12.903Z
 draft: false
 image: /images/birdnetpi-dall-e.png
-lastmod: 2022-05-21T23:08:52.752Z
+lastmod: 2023-02-15T19:32:14.242Z
 categories:
-  - technologie
+  - kunst-creativiteit
 tags:
   - raspberry-pi
   - machine-learning

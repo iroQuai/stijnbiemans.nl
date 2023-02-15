@@ -2,7 +2,7 @@
 title: "ADHD: een serieuze ziekte of een modieuze gril"
 date: 2014-04-27
 categories:
-  - overige
+  - ggz
 lastmod: 2022-03-11T14:53:15.528Z
 ---
 

@@ -2,7 +2,7 @@
 title: Is het design van je site of app simpel genoeg?
 date: 2015-03-27
 categories:
-  - technologie
+  - kunst-creativiteit
 lastmod: 2022-03-11T14:53:09.490Z
 ---
 

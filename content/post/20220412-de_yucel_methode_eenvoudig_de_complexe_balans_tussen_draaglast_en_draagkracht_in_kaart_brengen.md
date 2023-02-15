@@ -4,7 +4,7 @@ title: "de Yucel methode: Eenvoudig de complexe balans tussen draaglast en
 date: 2022-05-01T13:16:20.437Z
 draft: false
 categories:
-  - menselijk-gedrag
+  - ggz
 tags:
   - draagkracht
   - draaglast

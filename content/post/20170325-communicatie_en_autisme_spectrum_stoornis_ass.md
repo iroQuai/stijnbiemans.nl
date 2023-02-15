@@ -3,8 +3,10 @@ title: Waarom communicatie lastiger is voor mensen met Autisme Spectrum Stoornis
 date: 2017-03-25
 categories:
   - menselijk-gedrag
+  - ggz
 tags:
   - autisme
+  - communicatie
 lastmod: 2022-03-11T15:05:40.024Z
 draft: false
 image: /images/communicatie-autisme.png
