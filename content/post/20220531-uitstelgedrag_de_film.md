@@ -10,6 +10,8 @@ tags:
   - procrastination
   - fuck
 image: /images/uitstelgedrag.png
+description: "Drie keer raden hoe lang ik er over heb gedaan voordat dit berichtje online
+  stond... "
 ---
 Misschien ken je het wel: Het ene moment zit je lekker in een flow en krijg je veel gedaan in korte tijd. Op andere momenten lijkt het zo extreem moeilijk om iets productiefs uit je handen te krijgen... die laatste soort dagen zijn prachtig verfilmd hieronder:
 
