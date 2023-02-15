@@ -9,6 +9,7 @@ tags:
   - fuck
 categories:
   - mens-maatschappij
+image: /images/lateforwork.jpg
 ---
 Soms heb je van die dagen waarop je altijd achter de feiten aanloopt. Op die dagen moet ik altijd aan dit prachtige filmpje denken: Late For Work van 5 second films:
 
