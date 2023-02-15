@@ -21,8 +21,8 @@ Op een aantal plekken in de wereld zijn de verzamelde gegevens openbaar. Er staa
 
 
 ## Zelf testen of dit werkt
-Natuurlijk wilde ik dit zelf ook testen :) 
-{{< details title="Benieuwd naar het proces? *klik hier*" open=false >}}
+niet iedereen heeft zin in een uitgebreid technisch verhaal. Delen van dit bericht zijn dan ook ingeklapt. benieuwd naar de details? klik hieronder op de volgende onderwerpen:
+{{< details title="Benodigdheden verzamelen *klik hier*" open=false >}}
 ### Benodigdheden verzamelen
 De meeste materialen had ik al, de microfoon heb ik speciaal voor dit project besteld.  
 - **Een Raspberri Pi**  
@@ -31,12 +31,16 @@ De meeste materialen had ik al, de microfoon heb ik speciaal voor dit project be
   (liefst met een lange kabel (Ik heb er een besteld met een [zes meter lange kabel](https://nl.aliexpress.com/item/1005003770431532.html))
 - **USB-geluidskaart met line-in**  
   (optioneel. Sommige microfoons werken zonder, ik had 'm wel nodig). 
+{{< /details >}}
 
+{{< details title="Het installatieproces *klik hier*" open=false >}}
 ### het installatieproces
 Als je alle spullen hebt (plus wat ervaring met dit soort projecten) is het niet al te moeilijk de boel draaiend te krijgen; de [installation guide](https://github.com/mcguirepr89/BirdNET-Pi/wiki/Installation-Guide) is grondig en helder uitgeschreven. De software werd snel geinstalleerd en binnen no-time zat ik in de (vrij lelijk ontworpen) groene webomgeving. Enige probleem: de microfoon werkte niet! Na een tijdje bleek ik een USB geluidskaart nodig te hebben met line-in. Gelukkig had ik [deze USB geluidskaart](https://nl.aliexpress.com/item/1005003240530919.html) nog liggen voor een [ander project](https://github.com/iroQuai/RFID-kinderjukebox). Al met al was alles in een uurtje 'up and running'!  
 
 ![raspberry pi OS installeren](images/install01.png) ![het installatieproces (.gif)](images/install.gif) ![de web-app](images/install03.png)
 
+{{< /details >}}
+{{< details title="De hardware plaatsen *klik hier*" open=false >}}
 ### De hardware plaatsen
 In eerste instantie had ik ideeën over een waterdichte enclosure om de raspberry pi buiten te laten staan. Evt met een batterij en zonnecel om zo niet afhankelijk te zijn van het stroomnet. Ik weet echter dat dat véél meer geld, werk en gedoe kost dan ik in deze testfase logisch vindt, dus ik het mezelf makkelijk gemaakt: De raspberry pi veilig binnen, de microfoon met de lange draad uit het raam gehangen, de tuin in!  (Het bestaat overigens wel, zo'n [zelf-sufficient versie op zonne-energie](https://github.com/mcguirepr89/BirdNET-Pi/discussions/69#discussioncomment-2125002)!)
 
