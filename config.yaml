@@ -181,29 +181,6 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/iroQuai/
-          params:
-              icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com/stijnbiemans
-          params:
-              icon: brand-twitter
-
-        - identifier: spotify
-          name: Spotify
-          url: https://open.spotify.com/user/stijnbiemans/
-          params:
-              icon: brand-spotify
-
-        - identifier: pinterest
-          name: Pinterest
-          url: https://nl.pinterest.com/stijnbiemans/
-          params:
-              icon: brand-pinterest
 
         - identifier: linkedin
           name: LinkedIn
@@ -211,9 +188,36 @@ menu:
           params:
               icon: brand-linkedin
 
+        - identifier: cv
+          name: "curriculum vitae"
+          url: https://cv.stijnbiemans.nl/
+          params:
+              icon: file-pdf
 
+        - identifier: github
+          name: GitHub
+          url: https://github.com/iroQuai/
+          params:
+              icon: brand-github
+              
+        - identifier: spotify
+          name: Spotify
+          url: https://open.spotify.com/user/stijnbiemans/
+          params:
+              icon: brand-spotify
 
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/stijnbiemans
+          params:
+              icon: brand-twitter
 
+        - identifier: pinterest
+          name: Pinterest
+          url: https://nl.pinterest.com/stijnbiemans/
+          params:
+              icon: brand-pinterest
+              
 related:
     includeNewer: true
     threshold: 60
