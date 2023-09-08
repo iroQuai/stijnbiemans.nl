@@ -1,4 +1,4 @@
-baseurl: https://stijnbiemans.netlify.app
+baseurl: https://www.stijnbiemans.nl
 languageCode: nl-nl
 theme: hugo-theme-stack
 paginate: 5
@@ -23,8 +23,8 @@ permalinks:
     page: /:slug/
 
 taxonomies:
-  category: "thema's"
-  tag: "tags"
+  category: onderwerpen
+  tag: tags
   
 params:
     mainSections:
