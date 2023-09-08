@@ -23,8 +23,8 @@ permalinks:
     page: /:slug/
 
 taxonomies:
-  category: categories
-  tag: tags
+  category: "thema's"
+  tag: "tags"
   
 params:
     mainSections:
