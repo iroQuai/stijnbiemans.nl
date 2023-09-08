@@ -23,7 +23,7 @@ permalinks:
     page: /:slug/
 
 taxonomies:
-  category: onderwerpen
+  category: categories
   tag: tags
   
 params:
