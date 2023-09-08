@@ -192,33 +192,37 @@ menu:
               icon: brand-linkedin
 
         - identifier: recepten
-          name: recepten
+          name: "Mijn recepten"
           weight: 30
           url: https://recepten.stijnbiemans.nl
           params:
               icon: chef
-
+              newTab: true
+              
         - identifier: cv
           weight: 20
           name: "curriculum vitae"
           url: https://cv.stijnbiemans.nl/
           params:
               icon: cv
-
+              newTab: true
+              
         - identifier: github
           name: GitHub
           url: https://github.com/iroQuai/
           weight: 40
           params:
               icon: brand-github
-              
+              newTab: true
+                            
         - identifier: spotify
           name: Spotify
           weight: 60
           url: https://open.spotify.com/user/stijnbiemans/
           params:
               icon: brand-spotify
-
+              newTab: true
+              
         #- identifier: twitter
         #  name: Twitter
         #  url: https://twitter.com/stijnbiemans
@@ -231,6 +235,7 @@ menu:
           url: https://nl.pinterest.com/stijnbiemans/
           params:
               icon: brand-pinterest
+              newTab: true
               
 related:
     includeNewer: true
