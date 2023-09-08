@@ -190,6 +190,12 @@ menu:
           params:
               icon: brand-linkedin
 
+        - identifier: recepten
+          name: recepten
+          url: https://recepten.stijnbiemans.nl
+          params:
+              icon: chef
+
         - identifier: cv
           name: "curriculum vitae"
           url: https://cv.stijnbiemans.nl/
