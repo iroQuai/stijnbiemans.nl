@@ -177,11 +177,13 @@ params:
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
+### 
+### NB: SVG ICONS FROM TABLER: https://tabler-icons.io/
 menu:
     main: []
 
     social:
-
+        
         - identifier: linkedin
           name: LinkedIn
           url: https://www.linkedin.com/in/stijnbiemans/
