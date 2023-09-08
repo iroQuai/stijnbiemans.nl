@@ -192,7 +192,7 @@ menu:
           name: "curriculum vitae"
           url: https://cv.stijnbiemans.nl/
           params:
-              icon: cv2
+              icon: cv
 
         - identifier: github
           name: GitHub
