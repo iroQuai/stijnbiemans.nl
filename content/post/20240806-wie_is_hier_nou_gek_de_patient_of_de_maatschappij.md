@@ -27,15 +27,17 @@ Ook Dirk de Wachter, een Belgische psychiater, zegt hierover hele rake dingen. H
 >
 >Want vergis u niet: de meesten hebben geen psychiatrische afwijkingen, maar zijn gewone mensen die de ratrace niet meer aankunnen."
 >
-> _— Dirk De Wachter, psychiater_
-> _In: Humo & De Morgen_
+> _— Dirk De Wachter, psychiater. Bron: Humo & De Morgen_
 
-## interview met Dirk de Wachter
-Voor de liefhebber van beeld ipv geschreven tekst, in onderstaand interview bij het programma "Boeken" beschrijft hij (in net andere woorden) dezelfde metafoor. Het is overigens sowieso wel de moeite waard om het hele interview te beluisteren. In zijn boek  "Borderline Times" stelt hij namelijk dat de hele maatschappij eigenlijk een 'psychiatrische aandoening' heeft!
+## Borderline Times
+Dirk de Wachter heeft sowieso wel een mooie kijk op de wisselwerking psychiatrie en maatschappij. In zijn boek "Borderline Times" stelt hij bijvoorbeeld dat onze hele maatschappij eigenlijk een'psychiatrische aandoening' heeft!
 
-{{< youtube id=YzumSmL0e_c start=362 end=421 loading=lazy >}}
+Dirk de Wachter is over dit boek geinterviewd bij het programma "Boeken". Hieronder kun je dat interview integraal bekijken. Rond minuut 6 beschrijft de Wachter ook bovenstaande metafoor over de speedboat ([alleen de metafoor beluisteren? klik hier](https://www.youtube.com/clip/UgkxMucmTB-0QRTg5lAmQ8_1IsNIFEJSmVDZ). Maar het is wel de moeite waard om het hele interview te bekijken!
 
-## Voetnoten
+
+{{< youtube id=YzumSmL0e_c loading=lazy >}}
+
+
 [^1]: Het Trimbos-instituut meldt dat ruim een kwart van de volwassen Nederlanders in het afgelopen jaar een psychische aandoening heeft gehad. Dat zijn 3,3 miljoen mensen. Dertien jaar geleden waren dat 1,9 miljoen mensen. De sterke stijging is vooral te zien onder jongvolwassenen. De commissie wil graag weten hoe het komt dat het aantal mensen met een psychische stoornis zo is toegenomen. Ook wil de commissie horen hoe een verdere stijging kan worden voorkomen. [Bron: tweedekamer.nl](https://www.tweedekamer.nl/debat_en_vergadering/uitgelicht/rondetafelgesprek-over-de-enorme-stijging-van-het-aantal-mensen-met)
 
 [^2]: "Stemmen horen als fase in de spirituele ontwikkeling zoals bij budistische monikken en sjamanen, maar ook in bepaalde groepen in Nederland zoals de Roze Kruizers." [Bron:]( https://romme-escher.nl/stemmen-hoorders/#:~:text=Stemmen%20horen%20als%20fase%20in,geroepen%20tot%20het%20priesterschap.). Ook binnen de huidige maatschappij zoeken mensen naar andere manieren om met stemmen horen om te gaan. Lees het artikel: [Stemmen horen: het spanningsveld tussen deamons en wetenschap](https://www.psychosenet.nl/het-mag-geen-naam-hebben-over-het-spanningsveld-tussen-deamons-en-wetenschap/)
