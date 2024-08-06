@@ -30,7 +30,7 @@ Ook Dirk de Wachter, een Belgische psychiater, zegt hierover hele rake dingen. H
 > _— Dirk De Wachter, psychiater_
 > _In: Humo & De Morgen_
 
-# interview met Dirk de Wachter
+## interview met Dirk de Wachter
 Voor de liefhebber van beeld ipv geschreven tekst, in onderstaand interview bij het programma "Boeken" beschrijft hij (in net andere woorden) dezelfde metafoor. Het is overigens sowieso wel de moeite waard om het hele interview te beluisteren. In zijn boek  "Borderline Times" stelt hij namelijk dat de hele maatschappij eigenlijk een 'psychiatrische aandoening' heeft!
 
 {{< youtube id=YzumSmL0e_c start=362 end=421 loading=lazy >}}
