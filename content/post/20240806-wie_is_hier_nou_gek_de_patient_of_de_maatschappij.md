@@ -12,10 +12,9 @@ tags:
   - dsm
 image: /images/schermopname_6-8-2024_15436_www.wikihow.com.jpeg
 ---
-De laatste jaren neemt de druk op de psychiatrie steeds meer toe. Het Trimbos-instituut meldt dat ruim een kwart van de volwassen Nederlanders in het afgelopen jaar een psychische aandoening heeft gehad.[^1]. 
-
-Hoe meer ik me verdiep in de psychiatrie, hoe duidelijker het me wordt dat die psychische aandoeningen geen objectieve ziektebeelden zijn. Of iets een aandoening wordt genoemd, is sterk afhankelijk van tijd/plaats/context. Een paar voorbeelden: 
-- Homoseksualiteit was in de jaren '70 nog een ziektebeeld dat behandeld moest worden, terwijl dat in de huidige maatschappij (steeds meer) gezien wordt als een normale variatie. - Binnen onze (westerse) maatschappij is er maar heel beperkt ruimte voor mensen die stemmen horen. We noemen dat hallucineren en zien dat meestal als problematisch. Bij diverse andere culturen kan dit juist passend zijn binnen een spiritueel kader[^2]. 
+De laatste jaren neemt de druk op de psychiatrie steeds meer toe. Het Trimbos-instituut meldt dat ruim een kwart van de volwassen Nederlanders in het afgelopen jaar een psychische aandoening heeft gehad.[^1].  Hoe meer ik me verdiep in de psychiatrie, hoe duidelijker het me wordt dat die psychische aandoeningen geen objectieve ziektebeelden zijn. Of iets een aandoening wordt genoemd, is sterk afhankelijk van tijd/plaats/context. Een paar voorbeelden: 
+- Homoseksualiteit was in de jaren '70 nog een ziektebeeld dat behandeld moest worden, terwijl dat in de huidige maatschappij (steeds meer) gezien wordt als een normale variatie. 
+- Binnen onze (westerse) maatschappij is er maar heel beperkt ruimte voor mensen die stemmen horen. We noemen dat hallucineren en zien dat meestal als problematisch. Bij diverse andere culturen kan dit juist passend zijn binnen een spiritueel kader[^2]. 
 
 ## De tijdsgeest als speedboat
 Ook Dirk de Wachter, een Belgische psychiater, zegt hierover hele rake dingen. Hij vergelijkt de huidige tijdsgeest met een speedboot:
