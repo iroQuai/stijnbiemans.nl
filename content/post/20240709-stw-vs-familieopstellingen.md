@@ -1,8 +1,7 @@
 ---
-title: '"Systeemtherapeutisch werk? O, ik ken ook iemand die
+title: Systeemtherapie en Familieopstellingen - Verschillen en overeenkomsten
+description: '"Systeemtherapeutisch werk? O, ik ken ook iemand die
   familie-opstellingen doet!"'
-description: Over de verschillen en overeenkomsten tussen systeemtherapie en
-  familieopstellingen
 date: 2024-07-09T16:34:00.000Z
 draft: false
 categories:
