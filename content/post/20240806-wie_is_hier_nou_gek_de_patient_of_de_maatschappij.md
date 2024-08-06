@@ -3,7 +3,7 @@ title: "Wie is hier nou gek: de patiënt of de maatschappij? "
 description: Als een kwart van de hele bevolking psychische aandoeningen
   ervaart, aan wie ligt dat dan? Aan al die mensen, of aan de maatschappij
   waarin zij leven?
-date: 2024-08-06T15:45:00.000Z
+date: 2023-02-06T17:45:00.000Z
 draft: false
 categories:
   - ggz
