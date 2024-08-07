@@ -17,6 +17,8 @@ tags:
   - sympathy
 image: /images/x1080.jpeg
 ---
+In het engels worden de woorden Sympathy (medelijden) en "Empathy" (medeleven) gebruikt. Onderstaand filmpje laat in een paar minuten zien wat voor grote verschillen er zijn tussen die twee stijlen.
+
 {{< youtube id="1Evwgu369Jw" title="Empathy vs Sympathy" >}}
 
 Meer weten? op verkenjegeest.com staat een uitgebreid (nederlandstalig) artikel hierover. De schrijfstijl staat me een beetje tegen (het verkondigd wel héél sterk de "waarheid" zoals zij die zien) maar toch staan er nuttige dingen in!
