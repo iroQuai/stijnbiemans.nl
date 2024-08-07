@@ -2,6 +2,11 @@
 draft: false
 lastmod: 2022-04-09T19:46:03.603Z
 title: Stelarc fascineert me mateloos
+description: Ooit tijdens een keuzevak tijdens mijn studie CMV werd ik
+  geintroduceerd aan Stelarc. Een markant figuur die ik moeilijk in één term kan
+  omschrijven. Het is een kunstenaar, uitvinder, proefkonijn, visionair,
+  techneut, performance artiest, cyborg, filosoof, sadomasochist... het zit er
+  allemaal in en ik vind het fascinerend!
 date: 2021-03-20
 categories:
   - kunst-creativiteit
@@ -14,11 +19,9 @@ tags:
   - visionair
 image: /images/stelarc-third-hand.jpg
 ---
-Ooit tijdens een keuzevak tijdens mijn studie CMV werd ik geintroduceerd aan Stelarc. Een markant figuur die ik moeilijk in één term kan omschrijven. Het is een kunstenaar, uitvinder, proefkonijn, visionair, techneut, performance artiest, cyborg, filosoof, sadomasochist... het zit er allemaal in en ik vind het fascinerend!
-
 Veel van zijn werk draait om het concept dat het menselijk lichaam geen nut meer heeft ("the human body is obsolete"). Hij speelt met de grenzen tussen techniek en biologie, door zichzelf extra lichaamsdelen aan te meten (zoals een [extra oor](http://stelarc.org/?catID=20242) of een [derde hand](http://stelarc.org/?catID=20265), die hij geheel zelfstandig kan gebruiken alsof het zijn eigen hand is). 
 
-Ook doet hij pogingen zijn eigen lijf te vervlechten met een grotere 'entiteit', namelijk _het internet_, door zijn lijf automatisch te laten besturen door online data (zoals de frequentie van de pingtijden van diverse websites, die omgezet worden in codes voor beweging.) Dit alles doet hij niet alleen voor zichzelf, maar publiekelijk op een podium. Hieronder een video van zo'n performance, waarbij de geluiden automatisch gegenereerd worden aan de hand van de positie van zijn lijf. 
+Ook doet hij pogingen zijn eigen lijf te vervlechten met een grotere 'entiteit', namelijk *het internet*, door zijn lijf automatisch te laten besturen door online data (zoals de frequentie van de pingtijden van diverse websites, die omgezet worden in codes voor beweging.) Dit alles doet hij niet alleen voor zichzelf, maar publiekelijk op een podium. Hieronder een video van zo'n performance, waarbij de geluiden automatisch gegenereerd worden aan de hand van de positie van zijn lijf. 
 
 {{< youtube id="45MOlsFGSHI" title="Stelarc - Ping Body" >}}
 
