@@ -1,5 +1,8 @@
 ---
 title: "Het is de toon die de muziek maakt - ervaringen uit de forensische zorg. "
+description: Een korte anekdote uit mijn tijd in een forensisch psychiatrische
+  afdeling, om te schetsen hoe belangrijk bejegening is in dit vakgebied (èn
+  daarbuiten)
 date: 2018-06-11T21:12:49.895Z
 draft: false
 categories:
