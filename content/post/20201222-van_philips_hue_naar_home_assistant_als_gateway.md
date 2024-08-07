@@ -1,9 +1,12 @@
 ---
 title: van Philips Hue naar Home Assistant als Gateway
+description: "Sinds kort heb ik slimme lampen van Philips Hue. Zou het mogelijk
+  zijn om uit het ecosysteem van Philips te breken, zonder aan functionaltiteit
+  te verliezen? "
 date: 2020-12-22T11:04:35.362Z
 draft: false
 categories:
- - technologie
+  - technologie
 tags:
   - Home Assistant
   - Zigbee
