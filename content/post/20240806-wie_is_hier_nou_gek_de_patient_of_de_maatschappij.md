@@ -32,7 +32,7 @@ Ook Dirk de Wachter, een Belgische psychiater, zegt hierover hele rake dingen. H
 ## Borderline Times
 Dirk de Wachter heeft sowieso wel een mooie kijk op de wisselwerking psychiatrie en maatschappij. In zijn boek "Borderline Times" stelt hij bijvoorbeeld dat onze hele maatschappij eigenlijk een'psychiatrische aandoening' heeft!
 
-Dirk de Wachter is over dit boek geinterviewd bij het programma "Boeken". Hieronder kun je dat interview integraal bekijken. Rond minuut 6 beschrijft de Wachter ook bovenstaande metafoor over de speedboat ([alleen de metafoor beluisteren? klik hier](https://www.youtube.com/clip/UgkxMucmTB-0QRTg5lAmQ8_1IsNIFEJSmVDZ). Maar het is wel de moeite waard om het hele interview te bekijken!
+Dirk de Wachter is over dit boek geinterviewd bij het programma "Boeken". Hieronder kun je dat interview integraal bekijken. Rond minuut 6 beschrijft de Wachter ook bovenstaande metafoor over de speedboat ([alleen de metafoor beluisteren? klik hier](https://www.youtube.com/clip/UgkxMucmTB-0QRTg5lAmQ8_1IsNIFEJSmVDZ)) Maar het is wel de moeite waard om het hele interview te bekijken!
 
 
 {{< youtube id=YzumSmL0e_c loading=lazy >}}
