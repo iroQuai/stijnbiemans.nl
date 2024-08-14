@@ -1,19 +1,21 @@
 ---
-title: Verslaving, hoe werkt dat eigenlijk?
-date: 2017-02-10
 draft: false
+lastmod: 2022-03-11T14:54:10.290Z
+title: Verslaving, hoe werkt dat eigenlijk?
+description: Veel van mijn cliënten hebben te maken met verslavingsproblemen.
+  Alcohol, diverse soorten drugs, maar ook eet-, game-, gok- en
+  porno-verslavingen kom ik wel eens tegen. Ik probeer die mensen te
+  ondersteunen, maar als ik eerlijk ben weet ik niet eens precies hoe dat nou
+  werkt, een verslaving. Ik ben eens op onderzoek uitgegaan.
+date: 2017-02-10
 categories:
   - middelen-verslaving
 tags:
   - onderzoek
   - uitleg
   - verslaving
-lastmod: 2022-03-11T14:54:10.290Z
 image: /images/good-news-about-substance-abuse.jpg
 ---
-
-Veel van mijn cliënten hebben te maken met verslavingsproblemen. Alcohol, diverse soorten drugs, maar ook eet-, game-, gok- en porno-verslavingen kom ik wel eens tegen. Ik probeer die mensen te ondersteunen, maar als ik eerlijk ben weet ik niet eens precies hoe dat nou werkt, een verslaving. Ik ben eens op onderzoek uitgegaan.
-
 ## Heersende gedachte: De oorzaak van verslaving ligt in de verslavende stof zelf
 Al van jongs af aan werd mij uitgelegd dat verslavende middelen zo verslavend zijn, omdat ze iets triggeren in je lichaam waardoor je niet meer zonder kan. Bijvoorbeeld: Een paar keer heroïne gebruiken zou al direct zorgen voor een verslaving waar zeer moeilijk van af te komen is. Recent neurobiologisch onderzoek bevestigd dit verhaal. Neurowetenschapper Dick Swaab heeft hier diverse onderzoeken naar gedaan en boeken over gepubliceerd. Swaab legt het zelf op een heldere manier uit in dit filmpje van Victas: [Dick Swaab over verslaving](https://www.youtube.com/watch?v=6enfGAEPpb4).
 
