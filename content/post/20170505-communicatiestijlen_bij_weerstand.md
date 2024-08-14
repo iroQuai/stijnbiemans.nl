@@ -2,6 +2,12 @@
 draft: false
 lastmod: 2022-03-11T15:05:41.809Z
 title: Communicatiestijlen bij weerstand
+description: In mijn werk kom je regelmatig tegen dat clienten niet willen doen
+  wat de behandelaren voorstellen. "Weerstand" wordt dat vaak genoemd. Daarmee
+  wordt impliciet de client beschuldigd niet mee te willen werken aan de
+  behandeling. Maar wat nu als je weerstand ziet als een uitnodiging om je eigen
+  gedrag aan te passen? Ik nam de proef op de som en kwam tot waardevolle
+  inzichten!
 date: 2017-05-05
 categories:
   - ggz
@@ -12,7 +18,6 @@ tags:
   - ggz-agoog
 image: /images/weerstand2.jpg
 ---
-
 Er zijn situaties waarin een cliënt zo veel weerstand laat zien, dat ik niet meer goed weet hoe ik hier mee om moet gaan. In zulke situaties kan ik geïrriteerd of gefrustreerd raken. Recentelijk had ik zo'n situatie bij Samuel\*, een van mijn cliënten.  
 
 ### Weerstand in de praktijk
