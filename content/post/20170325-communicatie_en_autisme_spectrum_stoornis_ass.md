@@ -1,5 +1,10 @@
 ---
+draft: false
+lastmod: 2022-03-11T15:05:40.024Z
 title: Waarom communicatie lastiger is voor mensen met Autisme Spectrum Stoornis (ASS)
+description: "Deze afbeelding laat in één oogopslag zien hoe complex
+  communicatie kan zijn voor mensen met ASS. Het heeft me geholpen mijn eigen
+  communicatiestijl te verbeteren in contact met mensen met ASS. "
 date: 2017-03-25
 categories:
   - ggz
@@ -7,8 +12,7 @@ categories:
 tags:
   - autisme
   - communicatie
-lastmod: 2022-03-11T15:05:40.024Z
-draft: false
+  - ass
 image: /images/communicatie-autisme.png
 ---
 !
